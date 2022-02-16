@@ -121,6 +121,8 @@ class TextRank4Sentences():
             sorted_pr.reverse()
 
             index = 0
+            if len(sorted_pr) < number:
+                number = len(sorted_pr)
             for epoch in range(number):
                 sent = self.sentences[sorted_pr[index]]
                 sent = normalize_whitespace(sent)
