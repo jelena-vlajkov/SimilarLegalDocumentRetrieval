@@ -1,0 +1,28 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/195804/",
+  "id": 195804,
+  "absolute_url": "/opinion/195804/chukwu-v-murdoch/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/195804/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "joined_by_str": "",
+  "date_created": "2011-02-07T02:48:52Z",
+  "date_modified": "2020-02-21T23:33:14.507487Z",
+  "type": "010combined",
+  "sha1": "49dbd27a573ad75088fd7128e5568f7ba4da2163",
+  "page_count": null,
+  "download_url": "http://www.ca1.uscourts.gov/cgi-bin/getopn.pl?OPINION=94-1541.01A",
+  "local_path": null,
+  "plain_text": "\n[NOT FOR PUBLICATION]\nUNITED STATES COURT OF APPEALS\nFOR THE FIRST CIRCUIT\n\n\n\nNo. 94-1541\n\nAZUBUKO CHUKWU,\n\nPlaintiff, Appellant,\n\nv.\n\nRUPERT MURDOCH &amp; NEW AMERICA CORP.,\n\nDefendants, Appellees.\n\n\n\nAPPEAL FROM THE UNITED STATES DISTRICT COURT\n\nFOR THE DISTRICT OF MASSACHUSETTS\n\n[Hon. Patti B. Saris, U.S. District Judge]\r                                                               \n\n\n\nBefore\n\nTorruella, Chief Judge,\r                                                     \nSelya and Cyr, Circuit Judges.\r                                                         \n\n\n\nChukwu. E. Azubuko on brief pro se.\r                                 \nBrenda M.  Cotter, M.  Robert  Dushman and  Brown,  Rudnick,\r                                                                           \nFreed &amp; Gesmer, P.C. on brief for appellees.\r                              \n\n\n\n\r\r\n\nPer Curiam.  The judgment of  the district court is\r                                \n\naffirmed for the  reasons stated in the district  court's May\n\n6, 1994 order granting defendants' motion to dismiss.\n\n-2-\r\r\n",
+  "html": "<p class=\"case_cite\">43 F.3d 1456</p>\n    <p class=\"parties\">NOTICE: First Circuit Local Rule 36.2(b)6 states unpublished opinions may be cited only in related cases.<br>Azubuko CHUKWU, Plaintiff, Appellant,<br>v.<br>Rupert MURDOCH &amp; New America Corp., Defendants, Appellees.</p>\n    <p class=\"docket\">No. 94-1541.</p>\n    <p class=\"court\">United States Court of Appeals,<br>First Circuit.</p>\n    <p class=\"date\">Dec. 28, 1994.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">APPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE DISTRICT OF MASSACHUSETTS [Hon.  Patti B. Saris, U.S. District Judge]</p>\n      <p class=\"indent\">AFFIRMED.</p>\n      <p class=\"indent\">Chukwu. E. Azubuko on brief pro se.</p>\n      <p class=\"indent\">Brenda M. Cotter, M. Robert Dushman and Brown, Rudnick, Freed &amp; Gesmer, P.C. on brief for appellees.</p>\n      <p class=\"indent\">Before TORRUELLA, Chief Judge, SELYA and CYR, Circuit Judges.</p>\n      <p class=\"indent\">Per Curiam.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The judgment of the district court is affirmed for the reasons stated in the district court's May 6, 1994 order granting defendants' motion to dismiss.</p>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": "",
+  "xml_harvard": "",
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation\" data-id=\"195808\"><a href=\"/opinion/195808/aetna-casualty-v-arsenal-auto-repairs/\"><span class=\"volume\">43</span> <span class=\"reporter\">F.3d</span> <span class=\"page\">1456</span></a></span></p>\n    <p class=\"parties\">NOTICE: First Circuit Local Rule 36.2(b)6 states unpublished opinions may be cited only in related cases.<br>Azubuko CHUKWU, Plaintiff, Appellant,<br>v.<br>Rupert MURDOCH &amp; New America Corp., Defendants, Appellees.</p>\n    <p class=\"docket\">No. 94-1541.</p>\n    <p class=\"court\">United States Court of Appeals,<br>First Circuit.</p>\n    <p class=\"date\">Dec. 28, 1994.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">APPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE DISTRICT OF MASSACHUSETTS [Hon.  Patti B. Saris, U.S. District Judge]</p>\n      <p class=\"indent\">AFFIRMED.</p>\n      <p class=\"indent\">Chukwu. E. Azubuko on brief pro se.</p>\n      <p class=\"indent\">Brenda M. Cotter, M. Robert Dushman and Brown, Rudnick, Freed &amp; Gesmer, P.C. on brief for appellees.</p>\n      <p class=\"indent\">Before TORRUELLA, Chief Judge, SELYA and CYR, Circuit Judges.</p>\n      <p class=\"indent\">Per Curiam.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The judgment of the district court is affirmed for the reasons stated in the district court's May 6, 1994 order granting defendants' motion to dismiss.</p>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/195808/"
+  ]
+}

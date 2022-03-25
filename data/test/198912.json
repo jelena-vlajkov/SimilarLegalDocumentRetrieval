@@ -1,0 +1,29 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/198912/",
+  "id": 198912,
+  "absolute_url": "/opinion/198912/foster-miller-inc-v-babcock-wilcox/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/198912/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "joined_by_str": "",
+  "date_created": "2011-02-07T04:02:25Z",
+  "date_modified": "2020-02-21T23:47:34.399481Z",
+  "type": "010combined",
+  "sha1": "2d75a9285c640553d639881e4d575eb3f680a351",
+  "page_count": 2,
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/99-1227A-01A.pdf",
+  "local_path": "pdf/2000/05/08/Foster-Miller_Inc._v._Babcock__Wilcox.pdf",
+  "plain_text": "         United States Court of Appeals\n                    For the First Circuit\n\n\nNo. 99-1227\n\n                     FOSTER-MILLER, INC.,\n                     Plaintiff, Appellee,\n\n                              v.\n\n                   BABCOCK & WILCOX CANADA,\n                     Defendant, Appellant,\n\nNo. 99-1228\n\n                     FOSTER-MILLER, INC.\n                    Plaintiff, Appellant,\n\n                              v.\n\n                   BABCOCK & WILCOX CANADA,\n                     Defendant, Appellee.\n\n\n\n        APPEALS FROM THE UNITED STATES DISTRICT COURT\n\n              FOR THE DISTRICT OF MASSACHUSETTS\n\n        [Hon. Richard G. Stearns, U.S. District Judge]\n\n\n                         ERRATA SHEET\n\n     The opinion of this court issued on March 31, 2000 is amended\nas follows:\n\n    Page 15, line 5: delete \"between\" and replace it with \"among\"\n\n     Page 15, lines 20-23: delete \"United States v. Zanghi, 189 F.3d\n71, 79-80 (1st Cir. 1999) (evidentiary sufficiency is measured\nagainst instructions to which no objection has been lodged, at least\nwhere such instructions are not \"patently incorrect\"), cert. denied,\n120 S. Ct. 839 (2000)\"\n\f     Page 15, line 24: delete \"(similar)\" and replace it with\n\"(noting that the law of the case doctrine, although not totally\nrigid, presumptively applies in circumstances such as these); Scott-\nHarris v. City of Fall River, 134 F.3d 427, 442 & n.16 (1st Cir.\n1997) (similar, citing two other civil cases), reversed on other\ngrounds, 523 U.S. 44 (1998).\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": "",
+  "xml_harvard": "",
+  "html_with_citations": "<pre class=\"inline\">         United States Court of Appeals\n                    For the First Circuit\n\n\nNo. 99-1227\n\n                     FOSTER-MILLER, INC.,\n                     Plaintiff, Appellee,\n\n                              v.\n\n                   BABCOCK & WILCOX CANADA,\n                     Defendant, Appellant,\n\nNo. 99-1228\n\n                     FOSTER-MILLER, INC.\n                    Plaintiff, Appellant,\n\n                              v.\n\n                   BABCOCK & WILCOX CANADA,\n                     Defendant, Appellee.\n\n\n\n        APPEALS FROM THE UNITED STATES DISTRICT COURT\n\n              FOR THE DISTRICT OF MASSACHUSETTS\n\n        [Hon. Richard G. Stearns, U.S. District Judge]\n\n\n                         ERRATA SHEET\n\n     The opinion of this court issued on March 31, 2000 is amended\nas follows:\n\n    Page 15, line 5: delete \"between\" and replace it with \"among\"\n\n     Page 15, lines 20-23: delete \"United States v. Zanghi, </pre><span class=\"citation\" data-id=\"198610\"><a href=\"/opinion/198610/united-states-v-zanghi/\"><span class=\"volume\">189</span> <span class=\"reporter\">F.3d</span>\n<span class=\"page\">71</span></a></span><pre class=\"inline\">, 79-80 (1st Cir. 1999) (evidentiary sufficiency is measured\nagainst instructions to which no objection has been lodged, at least\nwhere such instructions are not \"patently incorrect\"), cert. denied,\n</pre><span class=\"citation no-link\"><span class=\"volume\">120</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">839</span> </span><pre class=\"inline\">(2000)\"\n\f     Page 15, line 24: delete \"(similar)\" and replace it with\n\"(noting that the law of the case doctrine, although not totally\nrigid, presumptively applies in circumstances such as these); Scott-\nHarris v. City of Fall River, </pre><span class=\"citation no-link\"><span class=\"volume\">134</span> <span class=\"reporter\">F.3d</span> <span class=\"page\">427</span></span><pre class=\"inline\">, 442 & n.16 (1st Cir.\n1997) (similar, citing two other civil cases), reversed on other\ngrounds, </pre><span class=\"citation\" data-id=\"118178\"><a href=\"/opinion/118178/bogan-v-scott-harris/\"><span class=\"volume\">523</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">44</span> </a></span><pre class=\"inline\">(1998).\"\n\f</pre>",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/118178/",
+    "https://www.courtlistener.com/api/rest/v3/opinions/198610/"
+  ]
+}

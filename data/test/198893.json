@@ -1,0 +1,28 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/198893/",
+  "id": 198893,
+  "absolute_url": "/opinion/198893/silva-v-sifflard/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/198893/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "joined_by_str": "",
+  "date_created": "2011-02-07T04:01:58Z",
+  "date_modified": "2020-02-21T23:46:55.700885Z",
+  "type": "010combined",
+  "sha1": "e963942029e804730ac181e5cb18debb873229ba",
+  "page_count": 2,
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/99-1499-01A.pdf",
+  "local_path": "pdf/2000/04/27/Silva_v._Sifflard.pdf",
+  "plain_text": "      [NOT FOR PUBLICATION–NOT TO BE CITED AS PRECEDENT]\n\n         United States Court of Appeals\n                       For the First Circuit\n\n\nNo. 99-1499\n\n                          ROBERT E. SILVA,\n\n                       Plaintiff, Appellant,\n\n                                 v.\n\n    WILLIAM A. SIFFLARD, VICE PRESIDENT, GENERAL MANAGER,\n                         E.U.A. NOVA,\n\n                       Defendants, Appellees.\n\n\n         APPEAL FROM THE UNITED STATES DISTRICT COURT\n\n                  FOR THE DISTRICT OF RHODE ISLAND\n\n              [Hon. Mary M. Lisi, U.S. District Judge]\n\n\n                               Before\n\n                       Torruella, Chief Judge,\n                  Campbell, Senior Circuit Judge,\n                     and Lipez, Circuit Judge.\n\n\n\n\n     Robert E. Silva on brief pro se.\n     Steven M. Richard, Douglas J. Emanuel and Tillinghast,\nLicht, Perkins, Smith & Cohen on brief for appellees.\n\n\n\n\n                           April 24, 2000\n\f          Per Curiam.      After carefully reviewing the record\n\nand   briefs   on   appeal,   we    affirm    substantially   for   the\n\nreasons   adopted    by   the      district   court.    Among   other\n\nconsiderations, the appellant made no showing that he could\n\nestablish an essential element of his case, that he was\n\nharassed because of his sex.           Although we do not condone\n\nharassment on the basis of perceived sexual orientation, it\n\nis not, without more, actionable under Title VII.             Higgins\n\nv. New Balance Athletic Shoe Inc., 194 F.3d 252 (1st Cir.\n\n1999).\n\n          Affirmed.       Loc. R. 27(c).\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": "",
+  "xml_harvard": "",
+  "html_with_citations": "<pre class=\"inline\">      [NOT FOR PUBLICATION–NOT TO BE CITED AS PRECEDENT]\n\n         United States Court of Appeals\n                       For the First Circuit\n\n\nNo. 99-1499\n\n                          ROBERT E. SILVA,\n\n                       Plaintiff, Appellant,\n\n                                 v.\n\n    WILLIAM A. SIFFLARD, VICE PRESIDENT, GENERAL MANAGER,\n                         E.U.A. NOVA,\n\n                       Defendants, Appellees.\n\n\n         APPEAL FROM THE UNITED STATES DISTRICT COURT\n\n                  FOR THE DISTRICT OF RHODE ISLAND\n\n              [Hon. Mary M. Lisi, U.S. District Judge]\n\n\n                               Before\n\n                       Torruella, Chief Judge,\n                  Campbell, Senior Circuit Judge,\n                     and Lipez, Circuit Judge.\n\n\n\n\n     Robert E. Silva on brief pro se.\n     Steven M. Richard, Douglas J. Emanuel and Tillinghast,\nLicht, Perkins, Smith & Cohen on brief for appellees.\n\n\n\n\n                           April 24, 2000\n\f          Per Curiam.      After carefully reviewing the record\n\nand   briefs   on   appeal,   we    affirm    substantially   for   the\n\nreasons   adopted    by   the      district   court.    Among   other\n\nconsiderations, the appellant made no showing that he could\n\nestablish an essential element of his case, that he was\n\nharassed because of his sex.           Although we do not condone\n\nharassment on the basis of perceived sexual orientation, it\n\nis not, without more, actionable under Title VII.             Higgins\n\nv. New Balance Athletic Shoe Inc., </pre><span class=\"citation\" data-id=\"198690\"><a href=\"/opinion/198690/higgins-v-new-balance/\"><span class=\"volume\">194</span> <span class=\"reporter\">F.3d</span> <span class=\"page\">252</span> </a></span><pre class=\"inline\">(1st Cir.\n\n1999).\n\n          Affirmed.       Loc. R. 27(c).\n\f</pre>",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/198690/"
+  ]
+}

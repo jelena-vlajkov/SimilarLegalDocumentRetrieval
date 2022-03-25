@@ -1,0 +1,28 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/174997/",
+  "id": 174997,
+  "absolute_url": "/opinion/174997/united-states-v-verdugo/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/174997/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "joined_by_str": "",
+  "date_created": "2010-09-08T19:46:05Z",
+  "date_modified": "2020-02-21T22:46:04.416402Z",
+  "type": "010combined",
+  "sha1": "f932eaad02049e28118dea4d508340588cf1c145",
+  "page_count": 1,
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/08-2175E-01A.pdf",
+  "local_path": "pdf/2010/09/08/US_v._Fernandez-Roque.pdf",
+  "plain_text": "              United States Court of Appeals\n                               For the First Circuit\n\nNos.   08-2175\n       08-2217\n\n\n                             UNITED STATES OF AMERICA,\n\n                                          Appellee,\n\n                                              v.\n\n                                ADOLFO VERDUGO and\n                              RAFAEL FERNÁNDEZ-ROQUE,\n\n                                   Defendants, Appellants.\n\n\n\n                                     ERRATA SHEET\n\n\n       The opinion of this Court issued on August 19, 2010, is amended as follows:\n\n     On page 22, footnote 2, lines 5, replace \"Berghius, 130 S. Ct. at 2264\" with \"Berghuis v.\nThompkins, 130 S. Ct. 2250, 2264 (2010)\"\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": "",
+  "xml_harvard": "",
+  "html_with_citations": "<pre class=\"inline\">              United States Court of Appeals\n                               For the First Circuit\n\nNos.   08-2175\n       08-2217\n\n\n                             UNITED STATES OF AMERICA,\n\n                                          Appellee,\n\n                                              v.\n\n                                ADOLFO VERDUGO and\n                              RAFAEL FERNÁNDEZ-ROQUE,\n\n                                   Defendants, Appellants.\n\n\n\n                                     ERRATA SHEET\n\n\n       The opinion of this Court issued on August 19, 2010, is amended as follows:\n\n     On page 22, footnote 2, lines 5, replace </pre><span class=\"citation no-link\"><span class=\"antecedent_guess\">\"Berghius,</span> <span class=\"volume\">130</span> <span class=\"reporter\">S. Ct.</span> at <span class=\"page\">2264</span></span><pre class=\"inline\">\" with \"Berghuis v.\nThompkins, </pre><span class=\"citation\" data-id=\"147529\"><a href=\"/opinion/147529/berghuis-v-thompkins/\"><span class=\"volume\">130</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">2250</span></a></span><pre class=\"inline\">, 2264 (2010)\"\n\f</pre>",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/147529/"
+  ]
+}

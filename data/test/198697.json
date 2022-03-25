@@ -1,0 +1,28 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/198697/",
+  "id": 198697,
+  "absolute_url": "/opinion/198697/united-states-v-mercedes/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/198697/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "joined_by_str": "",
+  "date_created": "2011-02-07T03:57:23Z",
+  "date_modified": "2020-02-21T23:29:49.033104Z",
+  "type": "010combined",
+  "sha1": "13cd4e3134fcbc6a31ba8824c5c0626ece2c5d1f",
+  "page_count": null,
+  "download_url": "http://www.ca1.uscourts.gov/cgi-bin/getopn.pl?OPINION=98-2019.01A",
+  "local_path": null,
+  "plain_text": "     [NOT FOR PUBLICATION NOT TO BE CITED AS PRECEDENT]\r\n               United States Court of Appeals\r\n                   For the First Circuit\r\n\nNo. 98-2019\r\n\n                        UNITED STATES,\r\n\n                     Plaintiff, Appellee,\r\n\n                              v.\r\n\n  ONE 1986 MERCEDES BENZ 330E VIN WDBEA30D89A309533, ET AL.,\r\n\n                   Defendants, Appellants.\r\n\n         APPEAL FROM THE UNITED STATES DISTRICT COURT\r\n\n              FOR THE DISTRICT OF MASSACHUSETTS\r\n\n       [Hon. Edward F. Harrington, U.S. District Judge]\r\n\n                            Before\r\n\n                   Boudin, Circuit Judge,\r\n              Campbell, Senior Circuit Judge,\r\n                 and Stahl, Circuit Judge.\r\n\n   Augustine A. Ahanon on brief pro se.\r\n   Donald K. Stern, United States Attorney, and Shelbey D.\r\nWright, Assistant U.S. Attorney, on brief for appellee.\r\n\nOctober 15, 1999\r\n\n          Per Curiam.  Appellant Augustine A. Ahanon appeals\r\nfrom the district court's decision to grant the motion of the\r\nUnited States for entry of default and summary judgment in this\r\ncivil forfeiture in rem action.  We affirm the judgment of the\r\ndistrict court because Ahanon failed to raise in the district\r\ncourt the arguments he presents on appeal.  \"Our law is clear\r\nthat a party ordinarily may not raise on appeal issues that\r\nwere not seasonably advanced (and, hence, preserved) below.\" \r\nDaigle v. Maine Med. Ctr., Inc., 14 F.3d 684, 687 (1st Cir.\r\n1994).  This rule \"applies with full force to constitutional\r\nchallenges.\"  Id. at 688.  Appellant thus has waived his\r\narguments regarding insufficient notice and the failure of the\r\ndistrict court to treat his letter as the functional equivalent\r\nof a claim.\r\n          Affirmed.  See Local Rule 27.1.\n",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": "",
+  "xml_harvard": "",
+  "html_with_citations": "<pre class=\"inline\">     [NOT FOR PUBLICATION NOT TO BE CITED AS PRECEDENT]\r\n               United States Court of Appeals\r\n                   For the First Circuit\r\n\nNo. 98-2019\r\n\n                        UNITED STATES,\r\n\n                     Plaintiff, Appellee,\r\n\n                              v.\r\n\n  ONE 1986 MERCEDES BENZ 330E VIN WDBEA30D89A309533, ET AL.,\r\n\n                   Defendants, Appellants.\r\n\n         APPEAL FROM THE UNITED STATES DISTRICT COURT\r\n\n              FOR THE DISTRICT OF MASSACHUSETTS\r\n\n       [Hon. Edward F. Harrington, U.S. District Judge]\r\n\n                            Before\r\n\n                   Boudin, Circuit Judge,\r\n              Campbell, Senior Circuit Judge,\r\n                 and Stahl, Circuit Judge.\r\n\n   Augustine A. Ahanon on brief pro se.\r\n   Donald K. Stern, United States Attorney, and Shelbey D.\r\nWright, Assistant U.S. Attorney, on brief for appellee.\r\n\nOctober 15, 1999\r\n\n          Per Curiam.  Appellant Augustine A. Ahanon appeals\r\nfrom the district court's decision to grant the motion of the\r\nUnited States for entry of default and summary judgment in this\r\ncivil forfeiture in rem action.  We affirm the judgment of the\r\ndistrict court because Ahanon failed to raise in the district\r\ncourt the arguments he presents on appeal.  \"Our law is clear\r\nthat a party ordinarily may not raise on appeal issues that\r\nwere not seasonably advanced (and, hence, preserved) below.\" \r\nDaigle v. Maine Med. Ctr., Inc., </pre><span class=\"citation\" data-id=\"195171\"><a href=\"/opinion/195171/daigle-v-maine-medical/\"><span class=\"volume\">14</span> <span class=\"reporter\">F.3d</span> <span class=\"page\">684</span></a></span><pre class=\"inline\">, 687 (1st Cir.\r\n1994).  This rule \"applies with full force to constitutional\r\nchallenges.\"  </pre><span class=\"citation\" data-id=\"195171\"><a href=\"/opinion/195171/daigle-v-maine-medical/\"><span class=\"id_token\">Id.</span> at 688. </a></span><pre class=\"inline\"> Appellant thus has waived his\r\narguments regarding insufficient notice and the failure of the\r\ndistrict court to treat his letter as the functional equivalent\r\nof a claim.\r\n          Affirmed.  See Local Rule 27.1.\n</pre>",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/195171/"
+  ]
+}

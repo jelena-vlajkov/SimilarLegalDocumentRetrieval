@@ -1,0 +1,28 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/199053/",
+  "id": 199053,
+  "absolute_url": "/opinion/199053/united-states-v-gouveia/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/199053/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "joined_by_str": "",
+  "date_created": "2011-02-07T04:23:34Z",
+  "date_modified": "2020-02-21T23:23:54.819182Z",
+  "type": "010combined",
+  "sha1": "dbebc3832f8eb4b85c8d65ceedbe9b7e6d7ec956",
+  "page_count": 2,
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/99-2122-01A.pdf",
+  "local_path": "pdf/2000/08/16/U.S._v._Gouveia.pdf",
+  "plain_text": "      [NOT FOR PUBLICATION–NOT TO BE CITED AS PRECEDENT]\n\n         United States Court of Appeals\n                    For the First Circuit\n\n\nNo. 99-2122\n\n                        UNITED STATES,\n\n                          Appellee,\n\n                              v.\n\n                       MARK M. GOUVEIA,\n\n                    Defendant, Appellant.\n\n\n         APPEAL FROM THE UNITED STATES DISTRICT COURT\n\n               FOR THE DISTRICT OF RHODE ISLAND\n\n         [Hon. Ernest C. Torres, U.S. District Judge]\n\n\n                            Before\n\n                    Torruella, Chief Judge,\n              Boudin and Lipez, Circuit Judges.\n\n\n\n\n     Edward C. Roy and Roy & Cook on brief for appellant.\n     Margaret E. Curran, United States Attorney, Donald C.\nLockhart and Stephanie S. Browne, Assistant United States\nAttorneys, on brief for appellee.\n\n\n                        July 31, 2000\n\f          Per Curiam.     After a thorough review of the record\n\nand of the parties’ submissions, we affirm.       This court has\n\nno jurisdiction to review a discretionary refusal to depart\n\ndownward from the sentencing guideline range, see United\n\nStates v. Reeder, 170 F.3d 93, 109 (1st Cir. 1999), and it is\n\napparent from a review of the record that the court assumed\n\nit had the authority to depart and simply chose not to do\n\nso.\n\n          Affirmed.     1st Cir. Loc. R. 27(c).\n\n\n\n\n                               -2-\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": "",
+  "xml_harvard": "",
+  "html_with_citations": "<pre class=\"inline\">      [NOT FOR PUBLICATION–NOT TO BE CITED AS PRECEDENT]\n\n         United States Court of Appeals\n                    For the First Circuit\n\n\nNo. 99-2122\n\n                        UNITED STATES,\n\n                          Appellee,\n\n                              v.\n\n                       MARK M. GOUVEIA,\n\n                    Defendant, Appellant.\n\n\n         APPEAL FROM THE UNITED STATES DISTRICT COURT\n\n               FOR THE DISTRICT OF RHODE ISLAND\n\n         [Hon. Ernest C. Torres, U.S. District Judge]\n\n\n                            Before\n\n                    Torruella, Chief Judge,\n              Boudin and Lipez, Circuit Judges.\n\n\n\n\n     Edward C. Roy and Roy & Cook on brief for appellant.\n     Margaret E. Curran, United States Attorney, Donald C.\nLockhart and Stephanie S. Browne, Assistant United States\nAttorneys, on brief for appellee.\n\n\n                        July 31, 2000\n\f          Per Curiam.     After a thorough review of the record\n\nand of the parties’ submissions, we affirm.       This court has\n\nno jurisdiction to review a discretionary refusal to depart\n\ndownward from the sentencing guideline range, see United\n\nStates v. Reeder, </pre><span class=\"citation\" data-id=\"762263\"><a href=\"/opinion/762263/united-states-v-george-wayneti-reeder-aka-wayne-reeder/\"><span class=\"volume\">170</span> <span class=\"reporter\">F.3d</span> <span class=\"page\">93</span></a></span><pre class=\"inline\">, 109 (1st Cir. 1999), and it is\n\napparent from a review of the record that the court assumed\n\nit had the authority to depart and simply chose not to do\n\nso.\n\n          Affirmed.     1st Cir. Loc. R. 27(c).\n\n\n\n\n                               -2-\n\f</pre>",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/762263/"
+  ]
+}

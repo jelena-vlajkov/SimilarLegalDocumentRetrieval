@@ -1,0 +1,29 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/198813/",
+  "id": 198813,
+  "absolute_url": "/opinion/198813/united-states-v-rivera/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/198813/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "joined_by_str": "",
+  "date_created": "2011-02-07T03:59:59Z",
+  "date_modified": "2020-02-21T23:48:05.104316Z",
+  "type": "010combined",
+  "sha1": "cc4221dbf999875ef3564478ef6842069396db00",
+  "page_count": null,
+  "download_url": "http://www.ca1.uscourts.gov/cgi-bin/getopn.pl?OPINION=99-1067.01A",
+  "local_path": null,
+  "plain_text": "     [NOT FOR PUBLICATIONNOT TO BE CITED AS PRECEDENT]\r\n               United States Court of Appeals\r\n                   For the First Circuit\r\n\nNo. 99-1067\r\n\n                        UNITED STATES,\r\n\n                          Appellee,\r\n\n                              v.\r\n\n                       LUIS A. RIVERA,\r\n\n                    Defendant, Appellant.\r\n\n         APPEAL FROM THE UNITED STATES DISTRICT COURT\r\n\n               FOR THE DISTRICT OF RHODE ISLAND\r\n\n         [Hon. Ernest C. Torres, U.S. District Judge]\r\n\n                            Before\r\n\n                    Selya, Circuit Judge,\r\n              Campbell, Senior Circuit Judge,\r\n                 and Lipez, Circuit Judge.\r\n\n   Allan M. Tow on brief for appellant.\r\n   Margaret E. Curran, United States Attorney, Donald C. Lockhart\r\nand Gerard B. Sullivan, Assistant United States Attorneys, on brief\r\nfor appellees.\r\n\nFebruary 2, 2000\r\n\n          Per Curiam.   After a thorough review of the record\r\nand of the parties' submissions, we affirm.  We find no error\r\nin the lower court's conclusion that police did not exceed the\r\nscope of the search warrant by looking through a bag found in\r\nappellant's car or in the glove compartment.  \"A warrant to\r\nsearch a vehicle . . . support[s] a search of every part of the\r\nvehicle that might contain the object of the search.\"  United\r\nStates v. Ross, 456 U.S. 798, 821 (1982).  Once an officer\r\nconducting a search in a lawful manner discovers evidence in\r\nplain view providing probable cause of a crime, that evidence\r\nmay be seized.  United States v. Robles, 45 F.3d 1, 6 (1st Cir.\r\n1995).  This court lacks jurisdiction to consider appellant's\r\nchallenge to his sentence.  United States v. Rosario-Peralta,\r\n F.3d , 1999 WL 1215238 (1st Cir. 1999).\r\n          Affirmed.  1st Cir. Loc. R. 27(c).\n",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": "",
+  "xml_harvard": "",
+  "html_with_citations": "<pre class=\"inline\">     [NOT FOR PUBLICATIONNOT TO BE CITED AS PRECEDENT]\r\n               United States Court of Appeals\r\n                   For the First Circuit\r\n\nNo. 99-1067\r\n\n                        UNITED STATES,\r\n\n                          Appellee,\r\n\n                              v.\r\n\n                       LUIS A. RIVERA,\r\n\n                    Defendant, Appellant.\r\n\n         APPEAL FROM THE UNITED STATES DISTRICT COURT\r\n\n               FOR THE DISTRICT OF RHODE ISLAND\r\n\n         [Hon. Ernest C. Torres, U.S. District Judge]\r\n\n                            Before\r\n\n                    Selya, Circuit Judge,\r\n              Campbell, Senior Circuit Judge,\r\n                 and Lipez, Circuit Judge.\r\n\n   Allan M. Tow on brief for appellant.\r\n   Margaret E. Curran, United States Attorney, Donald C. Lockhart\r\nand Gerard B. Sullivan, Assistant United States Attorneys, on brief\r\nfor appellees.\r\n\nFebruary 2, 2000\r\n\n          Per Curiam.   After a thorough review of the record\r\nand of the parties' submissions, we affirm.  We find no error\r\nin the lower court's conclusion that police did not exceed the\r\nscope of the search warrant by looking through a bag found in\r\nappellant's car or in the glove compartment.  \"A warrant to\r\nsearch a vehicle . . . support[s] a search of every part of the\r\nvehicle that might contain the object of the search.\"  United\r\nStates v. Ross, </pre><span class=\"citation\" data-id=\"110719\"><a href=\"/opinion/110719/united-states-v-ross/\"><span class=\"volume\">456</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">798</span></a></span><pre class=\"inline\">, 821 (1982).  Once an officer\r\nconducting a search in a lawful manner discovers evidence in\r\nplain view providing probable cause of a crime, that evidence\r\nmay be seized.  United States v. Robles, </pre><span class=\"citation\" data-id=\"686763\"><a href=\"/opinion/686763/united-states-v-jose-robles/\"><span class=\"volume\">45</span> <span class=\"reporter\">F.3d</span> <span class=\"page\">1</span></a></span><pre class=\"inline\">, 6 (1st Cir.\r\n1995).  This court lacks jurisdiction to consider appellant's\r\nchallenge to his sentence.  United States v. Rosario-Peralta,\r\n F.3d , </pre><span class=\"citation no-link\"><span class=\"volume\">1999</span> <span class=\"reporter\">WL</span> <span class=\"page\">1215238</span> </span><pre class=\"inline\">(1st Cir. 1999).\r\n          Affirmed.  1st Cir. Loc. R. 27(c).\n</pre>",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/110719/",
+    "https://www.courtlistener.com/api/rest/v3/opinions/686763/"
+  ]
+}

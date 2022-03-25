@@ -1,0 +1,28 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/198814/",
+  "id": 198814,
+  "absolute_url": "/opinion/198814/garcia-morales-v-insti-com-de-pr/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/198814/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "joined_by_str": "",
+  "date_created": "2011-02-07T03:59:59Z",
+  "date_modified": "2020-02-21T23:48:05.218390Z",
+  "type": "010combined",
+  "sha1": "4acc2ee1d71af840ba28fa2685beaccfdc074270",
+  "page_count": null,
+  "download_url": "http://www.ca1.uscourts.gov/cgi-bin/getopn.pl?OPINION=99-1433.01A",
+  "local_path": null,
+  "plain_text": "  [NOT FOR PUBLICATION NOT TO BE CITED AS PRECEDENT]\r\n            United States Court of Appeals\r\n                For the First Circuit\r\n\nNo. 99-1433\r\n\n                 IDANIS GARCIA MORALES;\r\n             EDGAR RAFAEL RIVERA DE JESUS;\r\n          CONJUGAL PARTNERSHIP RIVERA GARCIA,\r\n\n                Plaintiffs, Appellants,\r\n\n                           v.\r\n\n   INSTITUTO COMERCIAL DE PUERTO RICO JUNIOR COLLEGE;\r\n                     ANGEL CURBELO,\r\n\n                 Defendants, Appellees.\r\n\n      APPEAL FROM THE UNITED STATES DISTRICT COURT\r\n\n            FOR THE DISTRICT OF PUERTO RICO\r\n\n    [Hon. Salvador E. Casellas, U.S. District Judge]\r\n\n                         Before\r\n\n                 Selya, Circuit Judge,\r\n           Campbell, Senior Circuit Judge,\r\n              and Lipez, Circuit Judge.\r\n\nJesus R. Rabell Mendez and Rossello, Rabell &amp; Salicrup on\r\nbrief for appellants.\r\nLuis N. Blanco Matos on brief for appellees.\r\n\nJanuary 31, 2000\r\n\nPer Curiam.  Plaintiffs appeal from the district court's\r\ndismissal of their employment discrimination complaint which was\r\nfiled outside of the 90-day limitation period set forth in 42\r\nU.S.C.  2000e-5(f)(1).  The parties agree that the complaint was\r\nfiled more than 90 days after plaintiffs received their \"right to\r\nsue letter.\"  Plaintiffs contend, however, that defendants waived\r\nthe statute of limitations defense by failing to assert it in their\r\nanswer to the complaint, as required by Fed.R.Civ.P. 8(c).  For\r\nessentially the reasons stated by the district court in its Opinion\r\nand Order dated March 2, 1999, we agree that defendants did not\r\nwaive the statute of limitations defense.\r\nPlaintiffs also argue on appeal, as they did below, that the\r\nfiling of an earlier complaint which was dismissed \"without\r\nprejudice\" tolled the 90-day period, causing it to begin anew upon\r\nthe dismissal of the first complaint.  That argument is foreclosed\r\nby this court's decision in Chico-Velez v. Roche Products, Inc.,\r\n139 F.3d 56 (1st Cir. 1998).\r\nThe judgment of the district court dismissing plaintiffs'\r\nfederal claims with prejudice is affirmed. See Loc.R. 27(c).\r\n",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": "",
+  "xml_harvard": "",
+  "html_with_citations": "<pre class=\"inline\">  [NOT FOR PUBLICATION NOT TO BE CITED AS PRECEDENT]\r\n            United States Court of Appeals\r\n                For the First Circuit\r\n\nNo. 99-1433\r\n\n                 IDANIS GARCIA MORALES;\r\n             EDGAR RAFAEL RIVERA DE JESUS;\r\n          CONJUGAL PARTNERSHIP RIVERA GARCIA,\r\n\n                Plaintiffs, Appellants,\r\n\n                           v.\r\n\n   INSTITUTO COMERCIAL DE PUERTO RICO JUNIOR COLLEGE;\r\n                     ANGEL CURBELO,\r\n\n                 Defendants, Appellees.\r\n\n      APPEAL FROM THE UNITED STATES DISTRICT COURT\r\n\n            FOR THE DISTRICT OF PUERTO RICO\r\n\n    [Hon. Salvador E. Casellas, U.S. District Judge]\r\n\n                         Before\r\n\n                 Selya, Circuit Judge,\r\n           Campbell, Senior Circuit Judge,\r\n              and Lipez, Circuit Judge.\r\n\nJesus R. Rabell Mendez and Rossello, Rabell &amp; Salicrup on\r\nbrief for appellants.\r\nLuis N. Blanco Matos on brief for appellees.\r\n\nJanuary 31, 2000\r\n\nPer Curiam.  Plaintiffs appeal from the district court's\r\ndismissal of their employment discrimination complaint which was\r\nfiled outside of the 90-day limitation period set forth in 42\r\nU.S.C.  2000e-5(f)(1).  The parties agree that the complaint was\r\nfiled more than 90 days after plaintiffs received their \"right to\r\nsue letter.\"  Plaintiffs contend, however, that defendants waived\r\nthe statute of limitations defense by failing to assert it in their\r\nanswer to the complaint, as required by Fed.R.Civ.P. 8(c).  For\r\nessentially the reasons stated by the district court in its Opinion\r\nand Order dated March 2, 1999, we agree that defendants did not\r\nwaive the statute of limitations defense.\r\nPlaintiffs also argue on appeal, as they did below, that the\r\nfiling of an earlier complaint which was dismissed \"without\r\nprejudice\" tolled the 90-day period, causing it to begin anew upon\r\nthe dismissal of the first complaint.  That argument is foreclosed\r\nby this court's decision in Chico-Velez v. Roche Products, Inc.,\r\n</pre><span class=\"citation\" data-id=\"752408\"><a href=\"/opinion/752408/felix-chico-velez-v-roche-products-inc/\"><span class=\"volume\">139</span> <span class=\"reporter\">F.3d</span> <span class=\"page\">56</span> </a></span><pre class=\"inline\">(1st Cir. 1998).\r\nThe judgment of the district court dismissing plaintiffs'\r\nfederal claims with prejudice is affirmed. See Loc.R. 27(c).\r\n</pre>",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/752408/"
+  ]
+}

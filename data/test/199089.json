@@ -1,0 +1,28 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/199089/",
+  "id": 199089,
+  "absolute_url": "/opinion/199089/united-states-v-figueroa-cardona/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/199089/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "joined_by_str": "",
+  "date_created": "2011-02-07T04:24:22Z",
+  "date_modified": "2020-02-21T23:57:20.705952Z",
+  "type": "010combined",
+  "sha1": "4fe9e9ae1b8feaee597d5675f2e9938d68f977bc",
+  "page_count": 2,
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/00-1981-01A.pdf",
+  "local_path": "pdf/2000/09/27/US_v._Figueroa-Cardona.pdf",
+  "plain_text": "      [NOT FOR PUBLICATION–NOT TO BE CITED AS PRECEDENT]\n\n         United States Court of Appeals\n                    For the First Circuit\n\n\nNo. 00-1981\n\n                        UNITED STATES,\n\n                          Appellee,\n\n                              v.\n\n   CARLOS FIGUEROA-CARDONA, a/k/a El Primo, a/k/a Charlie,\n\n                    Defendant, Appellant.\n\n\n         APPEAL FROM THE UNITED STATES DISTRICT COURT\n\n               FOR THE DISTRICT OF PUERTO RICO\n\n       [Hon. Daniel R. Domínguez, U.S. District Judge]\n\n\n                            Before\n\n                    Selya, Lynch and Lipez,\n                        Circuit Judges.\n\n\n\n\n     Victor Ramos Rodriguez on brief for appellant.\n     Guillermo Gil, United States Attorney, Jorge E. Vega-\nPacheco, Assistant United States Attorney, and Nelson Perez-\nSosa, Assistant United States Attorney, on brief for appellee.\n\n\n\n\n                      September 25, 2000\n\f             Per Curiam.        The notice of appeal in this matter\n\nwas filed one day late.          Still, after a thorough review of\n\nthe record and of the parties’ submissions, we find that the\n\nmerits of the appeal favor the appellee.               Thus, we bypass\n\nthe jurisdictional question.             See United States v. Woods,\n\n210   F.3d   70   (1st   Cir.   2000).       We   affirm   the   order    of\n\ndetention,     essentially      for    the   reasons   set   out   by    the\n\ndistrict judge in his written order.\n\n             Affirmed.     1st Cir. Loc. R. 27(c).\n\n\n\n\n                                      -2-\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": "",
+  "xml_harvard": "",
+  "html_with_citations": "<pre class=\"inline\">      [NOT FOR PUBLICATION–NOT TO BE CITED AS PRECEDENT]\n\n         United States Court of Appeals\n                    For the First Circuit\n\n\nNo. 00-1981\n\n                        UNITED STATES,\n\n                          Appellee,\n\n                              v.\n\n   CARLOS FIGUEROA-CARDONA, a/k/a El Primo, a/k/a Charlie,\n\n                    Defendant, Appellant.\n\n\n         APPEAL FROM THE UNITED STATES DISTRICT COURT\n\n               FOR THE DISTRICT OF PUERTO RICO\n\n       [Hon. Daniel R. Domínguez, U.S. District Judge]\n\n\n                            Before\n\n                    Selya, Lynch and Lipez,\n                        Circuit Judges.\n\n\n\n\n     Victor Ramos Rodriguez on brief for appellant.\n     Guillermo Gil, United States Attorney, Jorge E. Vega-\nPacheco, Assistant United States Attorney, and Nelson Perez-\nSosa, Assistant United States Attorney, on brief for appellee.\n\n\n\n\n                      September 25, 2000\n\f             Per Curiam.        The notice of appeal in this matter\n\nwas filed one day late.          Still, after a thorough review of\n\nthe record and of the parties’ submissions, we find that the\n\nmerits of the appeal favor the appellee.               Thus, we bypass\n\nthe jurisdictional question.             See United States v. Woods,\n\n</pre><span class=\"citation\" data-id=\"198889\"><a href=\"/opinion/198889/united-states-v-woods/\"><span class=\"volume\">210</span>   <span class=\"reporter\">F.3d</span>   <span class=\"page\">70</span> </a></span><pre class=\"inline\">  (1st   Cir.   2000).       We   affirm   the   order    of\n\ndetention,     essentially      for    the   reasons   set   out   by    the\n\ndistrict judge in his written order.\n\n             Affirmed.     1st Cir. Loc. R. 27(c).\n\n\n\n\n                                      -2-\n\f</pre>",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/198889/"
+  ]
+}

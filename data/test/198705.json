@@ -1,0 +1,29 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/198705/",
+  "id": 198705,
+  "absolute_url": "/opinion/198705/united-states-v-rogers/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/198705/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "joined_by_str": "",
+  "date_created": "2011-02-07T03:57:30Z",
+  "date_modified": "2020-02-21T23:30:00.285320Z",
+  "type": "010combined",
+  "sha1": "a0fa8171dd69de779279f3a919897270ed59b2f5",
+  "page_count": null,
+  "download_url": "http://www.ca1.uscourts.gov/cgi-bin/getopn.pl?OPINION=98-2162.01A",
+  "local_path": null,
+  "plain_text": "     [NOT FOR PUBLICATION NOT TO BE CITED AS PRECEDENT]\r\n               United States Court of Appeals\r\n                   For the First Circuit\r\n\nNo. 98-2162\r\n\n                        UNITED STATES,\r\n\n                     Plaintiff, Appellee,\r\n\n                              v.\r\n\n                       DOUGLAS ROGERS,\r\n\n                    Defendant, Appellant.\r\n\n         APPEAL FROM THE UNITED STATES DISTRICT COURT\r\n\n               FOR THE DISTRICT OF RHODE ISLAND\r\n\n        [Hon. Ronald R. Lagueux, U.S. District Judge]\r\n\n                            Before\r\n\n                   Torruella, Chief Judge,\r\n              Stahl and Lipez, Circuit Judges.\r\n\n   Brendan G. King and George F. Gormley, P.C. on brief for\r\nappellant.\r\n   Margaret E. Curran, United States Attorney, Donald C. Lockhart\r\nand Zechariah Chafee, Assistant United States Attorneys, on brief\r\nfor appellee.\r\n\nNovember 4, 1999\r\n\n          Per Curiam.  Upon careful review of the briefs and\r\nrecord, we conclude that we do not have jurisdiction to review\r\nthe district court's discretionary refusal to depart from the\r\nsentencing guideline range.  See United States v. Reeder, 170\r\nF.3d 93, 109 (1st Cir. 1999), cert. denied, 68 U.S.L.W. 3079\r\n(U.S. Oct. 4, 1999).  Further, the district court's decision is\r\nnot inconsistent with, or undermined by, the ruling in United\r\nStates v. Perez, 160 F.3d 87 (1st Cir. 1998), because the\r\ndistrict court determined that, on the facts of this case, it\r\nwould not grant a departure even were it authorized to do so.\r\n          Affirmed.  See 1st Cir. Loc. R. 27.1.\n",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": "",
+  "xml_harvard": "",
+  "html_with_citations": "<pre class=\"inline\">     [NOT FOR PUBLICATION NOT TO BE CITED AS PRECEDENT]\r\n               United States Court of Appeals\r\n                   For the First Circuit\r\n\nNo. 98-2162\r\n\n                        UNITED STATES,\r\n\n                     Plaintiff, Appellee,\r\n\n                              v.\r\n\n                       DOUGLAS ROGERS,\r\n\n                    Defendant, Appellant.\r\n\n         APPEAL FROM THE UNITED STATES DISTRICT COURT\r\n\n               FOR THE DISTRICT OF RHODE ISLAND\r\n\n        [Hon. Ronald R. Lagueux, U.S. District Judge]\r\n\n                            Before\r\n\n                   Torruella, Chief Judge,\r\n              Stahl and Lipez, Circuit Judges.\r\n\n   Brendan G. King and George F. Gormley, P.C. on brief for\r\nappellant.\r\n   Margaret E. Curran, United States Attorney, Donald C. Lockhart\r\nand Zechariah Chafee, Assistant United States Attorneys, on brief\r\nfor appellee.\r\n\nNovember 4, 1999\r\n\n          Per Curiam.  Upon careful review of the briefs and\r\nrecord, we conclude that we do not have jurisdiction to review\r\nthe district court's discretionary refusal to depart from the\r\nsentencing guideline range.  See United States v. Reeder, </pre><span class=\"citation\" data-id=\"762263\"><a href=\"/opinion/762263/united-states-v-george-wayneti-reeder-aka-wayne-reeder/\"><span class=\"volume\">170</span>\r\n<span class=\"reporter\">F.3d</span> <span class=\"page\">93</span></a></span><pre class=\"inline\">, 109 (1st Cir. 1999), cert. denied, </pre><span class=\"citation no-link\"><span class=\"volume\">68</span> <span class=\"reporter\">U.S.L.W.</span> <span class=\"page\">3079</span>\r</span><pre class=\"inline\">\n(U.S. Oct. 4, 1999).  Further, the district court's decision is\r\nnot inconsistent with, or undermined by, the ruling in United\r\nStates v. Perez, </pre><span class=\"citation\" data-id=\"759121\"><a href=\"/opinion/759121/united-states-v-alina-perez/\"><span class=\"volume\">160</span> <span class=\"reporter\">F.3d</span> <span class=\"page\">87</span> </a></span><pre class=\"inline\">(1st Cir. 1998), because the\r\ndistrict court determined that, on the facts of this case, it\r\nwould not grant a departure even were it authorized to do so.\r\n          Affirmed.  See 1st Cir. Loc. R. 27.1.\n</pre>",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/759121/",
+    "https://www.courtlistener.com/api/rest/v3/opinions/762263/"
+  ]
+}

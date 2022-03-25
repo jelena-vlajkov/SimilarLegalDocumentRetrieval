@@ -1,0 +1,29 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/194877/",
+  "id": 194877,
+  "absolute_url": "/opinion/194877/kingsley-v-commonwealth-of-ma/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/194877/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "joined_by_str": "",
+  "date_created": "2011-02-07T02:27:08Z",
+  "date_modified": "2020-02-22T00:07:51.009298Z",
+  "type": "010combined",
+  "sha1": "f3eb84627ef53fd9d756dd1473762b28e15329a0",
+  "page_count": null,
+  "download_url": "http://www.ca1.uscourts.gov/wp.opinions/92-2310.01A",
+  "local_path": "wpd/1993/08/20/Kingsley_v._Commonwealth_of_MA.wpd",
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">2 F.3d 1148</p>\n    <p class=\"parties\">NOTICE: First Circuit Local Rule 36.2(b)6 states unpublished opinions may be cited only in related cases.<br>Lawrence KINGSLEY, Petitioner, Appellant,<br>v.<br>COMMONWEALTH of Massachusetts, et al., Respondents, Appellees.</p>\n    <p class=\"docket\">No. 92-2310.</p>\n    <p class=\"court\">United States Court of Appeals,<br>First Circuit.</p>\n    <p class=\"date\">August 20, 1993</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">APPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE DISTRICT OF MASSACHUSETTS</p>\n      <p class=\"indent\">Dr. Lawrence Kingsley on brief pro se.</p>\n      <p class=\"indent\">Scott Harshbarger, Attorney General, and Elisabeth J. Medvedow, Assistant Attorney General, on brief for appellees.</p>\n      <p class=\"indent\">D.Mass.</p>\n      <p class=\"indent\">AFFIRMED.</p>\n      <p class=\"indent\">Before Breyer, Chief Judge, Torruella and Cyr, Circuit Judges.</p>\n      <p class=\"indent\">Per Curiam.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Pro se petitioner Lawrence Kingsley appeals from the dismissal of his petition for relief from certain state court traffic convictions under 28 U.S.C. Sec. 2254.  We have thoroughly reviewed the record and the parties' briefs on appeal.  We are persuaded that this habeas petition was properly dismissed because Kingsley was not \"in custody\" when he filed it, therefore the district court lacked subject matter jurisdiction.  See, e.g., United States v. Michaud, 901 F.2d 5,7 (1st Cir. 1990) (per curiam) (\"A monetary fine is not a sufficient restraint on liberty to meet the 'in custody' requirement for Sec. 2255 purposes);  Lillios v. State of New Hampshire, 788 F.2d 60, 61 (1st Cir. 1986)(per curiam) (modest fines for speeding and license suspension \" 'not the sort of severe[ ] restraint on individual liberty' for which habeas corpus relief is reserved\") (citations omitted);  Tinder v. Paula, 725 F.2d 801, 804 (1st Cir. 1984).</p>\n    </div>\n    <p class=\"indent\">Judgment affirmed</p>\n    ",
+  "html_lawbox": "",
+  "html_columbia": "",
+  "xml_harvard": "",
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">2</span> <span class=\"reporter\">F.3d</span> <span class=\"page\">1148</span></span></p>\n    <p class=\"parties\">NOTICE: First Circuit Local Rule 36.2(b)6 states unpublished opinions may be cited only in related cases.<br>Lawrence KINGSLEY, Petitioner, Appellant,<br>v.<br>COMMONWEALTH of Massachusetts, et al., Respondents, Appellees.</p>\n    <p class=\"docket\">No. 92-2310.</p>\n    <p class=\"court\">United States Court of Appeals,<br>First Circuit.</p>\n    <p class=\"date\">August 20, 1993</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">APPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE DISTRICT OF MASSACHUSETTS</p>\n      <p class=\"indent\">Dr. Lawrence Kingsley on brief pro se.</p>\n      <p class=\"indent\">Scott Harshbarger, Attorney General, and Elisabeth J. Medvedow, Assistant Attorney General, on brief for appellees.</p>\n      <p class=\"indent\">D.Mass.</p>\n      <p class=\"indent\">AFFIRMED.</p>\n      <p class=\"indent\">Before Breyer, Chief Judge, Torruella and Cyr, Circuit Judges.</p>\n      <p class=\"indent\">Per Curiam.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Pro se petitioner Lawrence Kingsley appeals from the dismissal of his petition for relief from certain state court traffic convictions under 28 U.S.C. Sec. 2254.  We have thoroughly reviewed the record and the parties' briefs on appeal.  We are persuaded that this habeas petition was properly dismissed because Kingsley was not \"in custody\" when he filed it, therefore the district court lacked subject matter jurisdiction.  See, e.g., United States v. Michaud, 901 F.2d 5,7 (1st Cir. 1990) (per curiam) (\"A monetary fine is not a sufficient restraint on liberty to meet the 'in custody' requirement for Sec. 2255 purposes);  Lillios v. State of New Hampshire, <span class=\"citation\" data-id=\"468534\"><a href=\"/opinion/468534/evangelos-d-lillios-v-state-of-new-hampshire-evangelos-d-lillios-v/\"><span class=\"volume\">788</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">60</span></a></span>, 61 (1st Cir. 1986)(per curiam) (modest fines for speeding and license suspension \" 'not the sort of severe[ ] restraint on individual liberty' for which habeas corpus relief is reserved\") (citations omitted);  Tinder v. Paula, <span class=\"citation\" data-id=\"430493\"><a href=\"/opinion/430493/robert-l-tinder-v-sister-rose-paula-snd/\"><span class=\"volume\">725</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">801</span></a></span>, 804 (1st Cir. 1984).</p>\n    </div>\n    <p class=\"indent\">Judgment affirmed</p>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/430493/",
+    "https://www.courtlistener.com/api/rest/v3/opinions/468534/"
+  ]
+}

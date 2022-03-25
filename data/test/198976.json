@@ -1,0 +1,28 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/198976/",
+  "id": 198976,
+  "absolute_url": "/opinion/198976/ross-v-framingham/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/198976/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "joined_by_str": "",
+  "date_created": "2011-02-07T04:21:55Z",
+  "date_modified": "2020-02-21T23:20:51.847797Z",
+  "type": "010combined",
+  "sha1": "e32863ef197c9722a37f75f050c737ed5b3e1f51",
+  "page_count": 2,
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/99-1649-01A.pdf",
+  "local_path": "pdf/2000/06/23/Ross_v._Framingham.pdf",
+  "plain_text": "      [NOT FOR PUBLICATION–NOT TO BE CITED AS PRECEDENT]\n\n          United States Court of Appeals\n                    For the First Circuit\n\n\nNo. 99-1649\n\n        GERSHON ROSS; MARLENE W. ROSS; AS GUARDIAN FOR\n                         GERSHON ROSS,\n\n                   Plaintiffs, Appellants,\n\n                              v.\n\n           THE FRAMINGHAM SCHOOL COMMITTEE; TOWN OF\n      FRAMINGHAM; MASSACHUSETTS DEPARTMENT OF EDUCATION,\n\n                    Defendants, Appellees.\n\n\n         APPEAL FROM THE UNITED STATES DISTRICT COURT\n\n              FOR THE DISTRICT OF MASSACHUSETTS\n\n         [Hon. Robert E. Keeton, U.S. District Judge]\n\n\n                            Before\n\n                    Torruella, Chief Judge,\n              Boudin and Stahl, Circuit Judges.\n\n\n\n\n     Marlene W. Ross on brief pro se.\n     Aaron K. Bikofsky, Philip B. Benjamin and Bikofsky & White\non brief for appellees.\n\n\n\n\n                         June 23,2000\n\f           Per Curiam. We have carefully read the parties'\n\nsubmissions      and   have   reviewed   the    district   court    and\n\nadministrative records.        Based on our review, we find that\n\nthe decision to grant the defendants' motions for summary\n\njudgment   was    without     error.     We    therefore   affirm   the\n\njudgement of the district court for essentially the reasons\n\nstated in its opinion, Ross v. Framingham School Comm., 44\n\nF. Supp. 2d 104 (D. Mass. 1999).\n\n           Affirmed.     See Local Rule 27(c).\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": "",
+  "xml_harvard": "",
+  "html_with_citations": "<pre class=\"inline\">      [NOT FOR PUBLICATION–NOT TO BE CITED AS PRECEDENT]\n\n          United States Court of Appeals\n                    For the First Circuit\n\n\nNo. 99-1649\n\n        GERSHON ROSS; MARLENE W. ROSS; AS GUARDIAN FOR\n                         GERSHON ROSS,\n\n                   Plaintiffs, Appellants,\n\n                              v.\n\n           THE FRAMINGHAM SCHOOL COMMITTEE; TOWN OF\n      FRAMINGHAM; MASSACHUSETTS DEPARTMENT OF EDUCATION,\n\n                    Defendants, Appellees.\n\n\n         APPEAL FROM THE UNITED STATES DISTRICT COURT\n\n              FOR THE DISTRICT OF MASSACHUSETTS\n\n         [Hon. Robert E. Keeton, U.S. District Judge]\n\n\n                            Before\n\n                    Torruella, Chief Judge,\n              Boudin and Stahl, Circuit Judges.\n\n\n\n\n     Marlene W. Ross on brief pro se.\n     Aaron K. Bikofsky, Philip B. Benjamin and Bikofsky & White\non brief for appellees.\n\n\n\n\n                         June 23,2000\n\f           Per Curiam. We have carefully read the parties'\n\nsubmissions      and   have   reviewed   the    district   court    and\n\nadministrative records.        Based on our review, we find that\n\nthe decision to grant the defendants' motions for summary\n\njudgment   was    without     error.     We    therefore   affirm   the\n\njudgement of the district court for essentially the reasons\n\nstated in its opinion, Ross v. Framingham School Comm., </pre><span class=\"citation\" data-id=\"2568046\"><a href=\"/opinion/2568046/ross-v-framingham-school-committee/\"><span class=\"volume\">44</span>\n\n<span class=\"reporter\">F. Supp. 2d</span> <span class=\"page\">104</span> </a></span><pre class=\"inline\">(D. Mass. 1999).\n\n           Affirmed.     See Local Rule 27(c).\n\f</pre>",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/2568046/"
+  ]
+}

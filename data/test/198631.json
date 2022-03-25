@@ -1,0 +1,28 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/198631/",
+  "id": 198631,
+  "absolute_url": "/opinion/198631/united-states-v-haberski/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/198631/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "joined_by_str": "",
+  "date_created": "2011-02-07T03:56:11Z",
+  "date_modified": "2020-02-21T23:42:38.746987Z",
+  "type": "010combined",
+  "sha1": "12e0779dcafc26d46714edbc8d1fd1971facad2a",
+  "page_count": null,
+  "download_url": "http://www.ca1.uscourts.gov/cgi-bin/getopn.pl?OPINION=98-1710.01A",
+  "local_path": null,
+  "plain_text": "     [NOT FOR PUBLICATION NOT TO BE CITED AS PRECEDENT]\r\n               United States Court of Appeals\r\n                   For the First Circuit\r\n\nNo. 98-1710\r\n\n                        UNITED STATES,\r\n\n                          Appellee,\r\n\n                              v.\r\n\n                     MICHAEL B. HABERSKI,\r\n\n                    Defendant, Appellant.\r\n\n         APPEAL FROM THE UNITED STATES DISTRICT COURT\r\n\n              FOR THE DISTRICT OF MASSACHUSETTS\r\n\n      [Hon. George A. O'Toole, Jr., U.S. District Judge]\r\n\n                            Before\r\n\n                  Selya, Boudin and Lynch,\r\n                      Circuit Judges.\r\n\n   James R. Knudsen and Whittenberg &amp; Associates on brief for\r\nappellant.\r\n   Donald K. Stern, United States Attorney, Louis M. Fischer,\r\nAttorney, Department of Justice, and Christopher L. Varner, and\r\nPaul Andrews, Attorneys, Department of Justice, on brief for\r\nappellee.\r\n\nSeptember 15, 1999\r\n\n          Per Curiam. Upon careful review of the briefs and\r\nrecord, we conclude that the district court did not plainly err\r\nin applying the 2-level adjustment under U.S.S.G.  3B1.1(c). \r\nContrary to defendant's appellate arguments, the district court\r\nadopted the factual findings stated in the presentence report,\r\nwhich findings adequately supported the conclusion that\r\ndefendant \"exercised control over, or was otherwise responsible\r\nfor organizing the activities of, at least one other individual\r\nin committing the crimes.\"  United States v. DiSanto, 86 F.3d\r\n1238, 1259-60 (1st Cir. 1996).\r\n          Affirmed.  See 1st Cir. Loc. R. 27.1.\r\n",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": "",
+  "xml_harvard": "",
+  "html_with_citations": "<pre class=\"inline\">     [NOT FOR PUBLICATION NOT TO BE CITED AS PRECEDENT]\r\n               United States Court of Appeals\r\n                   For the First Circuit\r\n\nNo. 98-1710\r\n\n                        UNITED STATES,\r\n\n                          Appellee,\r\n\n                              v.\r\n\n                     MICHAEL B. HABERSKI,\r\n\n                    Defendant, Appellant.\r\n\n         APPEAL FROM THE UNITED STATES DISTRICT COURT\r\n\n              FOR THE DISTRICT OF MASSACHUSETTS\r\n\n      [Hon. George A. O'Toole, Jr., U.S. District Judge]\r\n\n                            Before\r\n\n                  Selya, Boudin and Lynch,\r\n                      Circuit Judges.\r\n\n   James R. Knudsen and Whittenberg &amp; Associates on brief for\r\nappellant.\r\n   Donald K. Stern, United States Attorney, Louis M. Fischer,\r\nAttorney, Department of Justice, and Christopher L. Varner, and\r\nPaul Andrews, Attorneys, Department of Justice, on brief for\r\nappellee.\r\n\nSeptember 15, 1999\r\n\n          Per Curiam. Upon careful review of the briefs and\r\nrecord, we conclude that the district court did not plainly err\r\nin applying the 2-level adjustment under U.S.S.G.  3B1.1(c). \r\nContrary to defendant's appellate arguments, the district court\r\nadopted the factual findings stated in the presentence report,\r\nwhich findings adequately supported the conclusion that\r\ndefendant \"exercised control over, or was otherwise responsible\r\nfor organizing the activities of, at least one other individual\r\nin committing the crimes.\"  United States v. DiSanto, </pre><span class=\"citation\" data-id=\"196811\"><a href=\"/opinion/196811/united-states-v-disanto/\"><span class=\"volume\">86</span> <span class=\"reporter\">F.3d</span>\r\n<span class=\"page\">1238</span></a></span><pre class=\"inline\">, 1259-60 (1st Cir. 1996).\r\n          Affirmed.  See 1st Cir. Loc. R. 27.1.\r\n</pre>",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/196811/"
+  ]
+}

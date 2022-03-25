@@ -1,0 +1,28 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/197476/",
+  "id": 197476,
+  "absolute_url": "/opinion/197476/united-states-v-mastello/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/197476/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "joined_by_str": "",
+  "date_created": "2011-02-07T03:31:06Z",
+  "date_modified": "2020-02-22T00:02:42.166325Z",
+  "type": "010combined",
+  "sha1": "d2afbd062730e4f4b2b1f9d1aa77d28a8d5be369",
+  "page_count": null,
+  "download_url": "http://www.ca1.uscourts.gov/cgi-bin/getopn.pl?OPINION=96-2199.01A",
+  "local_path": null,
+  "plain_text": "\n\n                    [NOT FOR PUBLICATION]\r\n\n               UNITED STATES COURT OF APPEALS\r\n                    FOR THE FIRST CIRCUIT\r\n                                        \r\n\nNo. 96-2199\r\n\n                       UNITED STATES,\r\n\n                          Appellee,\r\n\n                             v.\r\n\n                     LAWRENCE MASTELLO,\r\n\n                    Defendant, Appellant.\r\n\n                                        \r\n\n        APPEAL FROM THE UNITED STATES DISTRICT COURT\r\n\n              FOR THE DISTRICT OF MASSACHUSETTS\r\n\n    [Hon. Frank H. Freedman, Senior U.S. District Judge]\r\n\n                                        \r\n\n                           Before\r\n\n                   Selya, Boudin and Lynch,\r\n                       Circuit Judges.\r\n\n                                        \r\n\nTina Schneider on brief for appellant.\r\nDonald  \r                   K.  \r                       Stern, United States Attorney, and     Kevin  \r                                                                     O'Regan,\r\nAssistant United States Attorney, on brief for appellee.\r\n\n                                        \r\n\n                        July 23, 1997\r\n                                        \r\r\n\n     Per Curiam\r                          . Upon careful consideration of the briefs and\r\n\nrecord, we conclude that this appeal does not present a\r\n\nsubstantial question.  See 1st Cir. Loc. R. 27.1. \r\n\n     The 24-month sentence imposed upon revocation of\r\n\nsupervised release was within the district court's authority\r\n\nunder 18 U.S.C. S 3583(e)(3) and was not inconsistent with\r\n\nU.S.S.G. S 7B1.4.  See United \r                                          States v. O'Neil, 11 F.3d 292,\r\n\n301 n.11 (1st Cir. 1993) (the S 7B1.4 sentencing table is\r\n\nadvisory, not mandatory). In our view, the district court's\r\n\nstatement of reasons for the longer sentence, including\r\n\ndefendant's repeated disobedience, was sufficient and gave\r\n\nadequate weight to the guideline provisions.\r\n\n     The sentence is affirmed.  See 1st Cir. R. 27.1.\r\n\n                             -2-\r\n",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": "",
+  "xml_harvard": "",
+  "html_with_citations": "<pre class=\"inline\">\n\n                    [NOT FOR PUBLICATION]\r\n\n               UNITED STATES COURT OF APPEALS\r\n                    FOR THE FIRST CIRCUIT\r\n                                        \r\n\nNo. 96-2199\r\n\n                       UNITED STATES,\r\n\n                          Appellee,\r\n\n                             v.\r\n\n                     LAWRENCE MASTELLO,\r\n\n                    Defendant, Appellant.\r\n\n                                        \r\n\n        APPEAL FROM THE UNITED STATES DISTRICT COURT\r\n\n              FOR THE DISTRICT OF MASSACHUSETTS\r\n\n    [Hon. Frank H. Freedman, Senior U.S. District Judge]\r\n\n                                        \r\n\n                           Before\r\n\n                   Selya, Boudin and Lynch,\r\n                       Circuit Judges.\r\n\n                                        \r\n\nTina Schneider on brief for appellant.\r\nDonald  \r                   K.  \r                       Stern, United States Attorney, and     Kevin  \r                                                                     O'Regan,\r\nAssistant United States Attorney, on brief for appellee.\r\n\n                                        \r\n\n                        July 23, 1997\r\n                                        \r\r\n\n     Per Curiam\r                          . Upon careful consideration of the briefs and\r\n\nrecord, we conclude that this appeal does not present a\r\n\nsubstantial question.  See 1st Cir. Loc. R. 27.1. \r\n\n     The 24-month sentence imposed upon revocation of\r\n\nsupervised release was within the district court's authority\r\n\nunder 18 U.S.C. S 3583(e)(3) and was not inconsistent with\r\n\nU.S.S.G. S 7B1.4.  See United \r                                          States v. O'Neil, </pre><span class=\"citation\" data-id=\"658542\"><a href=\"/opinion/658542/united-states-v-shaun-k-oneil/\"><span class=\"volume\">11</span> <span class=\"reporter\">F.3d</span> <span class=\"page\">292</span></a></span><pre class=\"inline\">,\r\n\n301 n.11 (1st Cir. 1993) (the S 7B1.4 sentencing table is\r\n\nadvisory, not mandatory). In our view, the district court's\r\n\nstatement of reasons for the longer sentence, including\r\n\ndefendant's repeated disobedience, was sufficient and gave\r\n\nadequate weight to the guideline provisions.\r\n\n     The sentence is affirmed.  See 1st Cir. R. 27.1.\r\n\n                             -2-\r\n</pre>",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/658542/"
+  ]
+}

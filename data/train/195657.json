@@ -1,0 +1,29 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/195657/",
+  "id": 195657,
+  "absolute_url": "/opinion/195657/in-re-burgess-v/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/195657/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "joined_by_str": "",
+  "date_created": "2011-02-07T02:44:51Z",
+  "date_modified": "2020-02-21T23:29:45.949962Z",
+  "type": "010combined",
+  "sha1": "980fc095b12b97da7bf00b08b1e09c900da21d41",
+  "page_count": null,
+  "download_url": "http://www.ca1.uscourts.gov/cgi-bin/getopn.pl?OPINION=94-1728.01A",
+  "local_path": null,
+  "plain_text": "October 7, 1994         [NOT FOR PUBLICATION]\n\n                UNITED STATES COURT OF APPEALS\n                    FOR THE FIRST CIRCUIT\n                                         \n\nNo. 94-1728\n\n                 IN RE:  WILLIAM J. BURGESS,\n\n                          Appellant.\n\n                                         \n\n         APPEAL FROM THE UNITED STATES DISTRICT COURT\n\n              FOR THE DISTRICT OF NEW HAMPSHIRE\n\n    [Hon. Martin F. Loughlin, Senior U.S. District Judge]\n                                                        \n\n                                         \n\n                            Before\n\n                    Selya, Cyr and Boudin,\n                       Circuit Judges.\n                                     \n\n                                         \n\nWilliam J. Burgess on brief pro se.\n                  \n\n                                         \n\n                                         \n\n     Per  Curiam.   The  district  court  did not  abuse  its\n                \n\ndiscretion  in  denying  the  request  to  proceed  in  forma\n\npauperis, see Temple v. Ellerthorpe, 586 F. Supp. 848 (D.R.I.\n                                   \n\n1984)   (discussing   the   discretionary  nature   of   this\n\ndetermination),  nor   did  it  fail  to   give  an  adequate\n\nexplanation,  assuming it  were  obliged to  do  so, for  its\n\nruling.\n\n     Affirmed.\n              \n\n                             -3-\n",
+  "html": "<p class=\"case_cite\">37 F.3d 1484<br>NOTICE: First Circuit Local Rule 36.2(b)6 states unpublished opinions may be cited only in related cases.</p>\n    <p class=\"parties\">In re William J. BURGESS, Appellant.</p>\n    <p class=\"docket\">No. 94-1728</p>\n    <p class=\"court\">United States Court of Appeals,<br>First Circuit.</p>\n    <p class=\"date\">Oct. 7, 1994.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Appeal from the United States District Court for the District of New Hampshire [Hon.  Martin F. Loughlin, Senior U.S. District Judge]</p>\n      <p class=\"indent\">William J. Burgess on brief pro se.</p>\n      <p class=\"indent\">D.N.H.</p>\n      <p class=\"indent\">AFFIRMED.</p>\n      <p class=\"indent\">Before Selya, Cyr and Boudin, Circuit Judges.</p>\n      <p class=\"indent\">Per Curiam.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The district court did not abuse its discretion in denying the request to proceed in forma pauperis,  see Temple v. Ellerthorpe, 586 F. Supp. 848 (D.R.I. 1984) (discussing the discretionary nature of this determination), nor did it fail to give an adequate explanation, assuming it were obliged to do so, for its ruling.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Affirmed.</p>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": "",
+  "xml_harvard": "",
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation\" data-id=\"680047\"><a href=\"/opinion/680047/james-wiley-nichols-v-united-states/\"><span class=\"volume\">37</span> <span class=\"reporter\">F.3d</span> <span class=\"page\">1484</span></a></span><br>NOTICE: First Circuit Local Rule 36.2(b)6 states unpublished opinions may be cited only in related cases.</p>\n    <p class=\"parties\">In re William J. BURGESS, Appellant.</p>\n    <p class=\"docket\">No. 94-1728</p>\n    <p class=\"court\">United States Court of Appeals,<br>First Circuit.</p>\n    <p class=\"date\">Oct. 7, 1994.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Appeal from the United States District Court for the District of New Hampshire [Hon.  Martin F. Loughlin, Senior U.S. District Judge]</p>\n      <p class=\"indent\">William J. Burgess on brief pro se.</p>\n      <p class=\"indent\">D.N.H.</p>\n      <p class=\"indent\">AFFIRMED.</p>\n      <p class=\"indent\">Before Selya, Cyr and Boudin, Circuit Judges.</p>\n      <p class=\"indent\">Per Curiam.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The district court did not abuse its discretion in denying the request to proceed in forma pauperis,  see Temple v. Ellerthorpe, <span class=\"citation\" data-id=\"1903344\"><a href=\"/opinion/1903344/temple-v-ellerthorpe/\"><span class=\"volume\">586</span> <span class=\"reporter\">F. Supp.</span> <span class=\"page\">848</span> </a></span>(D.R.I. 1984) (discussing the discretionary nature of this determination), nor did it fail to give an adequate explanation, assuming it were obliged to do so, for its ruling.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Affirmed.</p>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/680047/",
+    "https://www.courtlistener.com/api/rest/v3/opinions/1903344/"
+  ]
+}

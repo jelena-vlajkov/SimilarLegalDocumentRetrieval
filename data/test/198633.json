@@ -1,0 +1,28 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/198633/",
+  "id": 198633,
+  "absolute_url": "/opinion/198633/united-states-v-custodio-rosis/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/198633/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "joined_by_str": "",
+  "date_created": "2011-02-07T03:56:13Z",
+  "date_modified": "2020-02-21T23:42:38.946918Z",
+  "type": "010combined",
+  "sha1": "094765b5aec7022441be5e4029da16915fcf4349",
+  "page_count": null,
+  "download_url": "http://www.ca1.uscourts.gov/cgi-bin/getopn.pl?OPINION=99-1368.01A",
+  "local_path": null,
+  "plain_text": "     [NOT FOR PUBLICATION NOT TO BE CITED AS PRECEDENT]\r\n               United States Court of Appeals\r\n                   For the First Circuit\r\n\nNo. 99-1368\r\n\n                        UNITED STATES,\r\n\n                          Appellee,\r\n\n                              v.\r\n\n                   IGNACIO CUSTODIO-ROSIS,\r\n\n                    Defendant, Appellant.\r\n\n         APPEAL FROM THE UNITED STATES DISTRICT COURT\r\n\n               FOR THE DISTRICT OF PUERTO RICO\r\n\n       [Hon. Daniel R. Domnguez, U.S. District Judge]\r\n\n                            Before\r\n\n                  Selya, Boudin and Lynch,\r\n                      Circuit Judges.\r\n\n   Alexander Zeno on brief for appellant.\r\n   Guillermo Gil, United States Attorney, Jorge E. Vega-Pacheco,\r\nAssistant United States Attorney, and Nelson Perez-Sosa, Assistant\r\nUnited States Attorney, on brief for appellee.\r\n\nSeptember 15, 1999\r\n\n          Per Curiam.    Upon careful review of the briefs and\r\nrecord, we conclude that the district court did not clearly err\r\nin basing defendant's sentence on the negotiated drug quantity. \r\nSee U.S.S.G.  2D1.1, n.12; United States v. Muniz, 49 F.3d 36,\r\n39 (1st Cir. 1995).  In the circumstances of this case, we\r\ncannot say that the district court was required to disregard \r\ndefendant's earlier assertions of capacity and intent to\r\ndeliver the full quantity.\r\n          We further conclude that the district court did not\r\nabuse its discretion in quashing the belated subpoenas.  In\r\nlight of defendant's guilty plea and the limited issues\r\nremaining for the sentencing hearing, defendant's argument\r\nregarding an entrapment defense is entirely meritless.\r\n          Affirmed.  See 1st Cir. Loc. R. 27.1.\n",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": "",
+  "xml_harvard": "",
+  "html_with_citations": "<pre class=\"inline\">     [NOT FOR PUBLICATION NOT TO BE CITED AS PRECEDENT]\r\n               United States Court of Appeals\r\n                   For the First Circuit\r\n\nNo. 99-1368\r\n\n                        UNITED STATES,\r\n\n                          Appellee,\r\n\n                              v.\r\n\n                   IGNACIO CUSTODIO-ROSIS,\r\n\n                    Defendant, Appellant.\r\n\n         APPEAL FROM THE UNITED STATES DISTRICT COURT\r\n\n               FOR THE DISTRICT OF PUERTO RICO\r\n\n       [Hon. Daniel R. Domnguez, U.S. District Judge]\r\n\n                            Before\r\n\n                  Selya, Boudin and Lynch,\r\n                      Circuit Judges.\r\n\n   Alexander Zeno on brief for appellant.\r\n   Guillermo Gil, United States Attorney, Jorge E. Vega-Pacheco,\r\nAssistant United States Attorney, and Nelson Perez-Sosa, Assistant\r\nUnited States Attorney, on brief for appellee.\r\n\nSeptember 15, 1999\r\n\n          Per Curiam.    Upon careful review of the briefs and\r\nrecord, we conclude that the district court did not clearly err\r\nin basing defendant's sentence on the negotiated drug quantity. \r\nSee U.S.S.G.  2D1.1, n.12; United States v. Muniz, </pre><span class=\"citation\" data-id=\"195951\"><a href=\"/opinion/195951/united-states-v-muniz/\"><span class=\"volume\">49</span> <span class=\"reporter\">F.3d</span> <span class=\"page\">36</span></a></span><pre class=\"inline\">,\r\n39 (1st Cir. 1995).  In the circumstances of this case, we\r\ncannot say that the district court was required to disregard \r\ndefendant's earlier assertions of capacity and intent to\r\ndeliver the full quantity.\r\n          We further conclude that the district court did not\r\nabuse its discretion in quashing the belated subpoenas.  In\r\nlight of defendant's guilty plea and the limited issues\r\nremaining for the sentencing hearing, defendant's argument\r\nregarding an entrapment defense is entirely meritless.\r\n          Affirmed.  See 1st Cir. Loc. R. 27.1.\n</pre>",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/195951/"
+  ]
+}

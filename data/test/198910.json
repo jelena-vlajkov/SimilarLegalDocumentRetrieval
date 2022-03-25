@@ -1,0 +1,28 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/198910/",
+  "id": 198910,
+  "absolute_url": "/opinion/198910/united-states-v-ortiz/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/198910/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "joined_by_str": "",
+  "date_created": "2011-02-07T04:02:23Z",
+  "date_modified": "2020-02-21T23:47:30.599369Z",
+  "type": "010combined",
+  "sha1": "4dc0faa749c0a294d77c0374d83778aa3f86672b",
+  "page_count": 2,
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/00-1341-01A.pdf",
+  "local_path": "pdf/2000/05/08/US_v._Ortiz.pdf",
+  "plain_text": "      [NOT FOR PUBLICATION–NOT TO BE CITED AS PRECEDENT]\n\n          United States Court of Appeals\n                    For the First Circuit\n\n\nNo. 00-1341\n\n\n                        UNITED STATES,\n\n                          Appellee,\n\n                              v.\n\n                 JESSICA ORTIZ, a/k/a MARTA,\n\n                    Defendant, Appellant.\n\n\n         APPEAL FROM THE UNITED STATES DISTRICT COURT\n\n              FOR THE DISTRICT OF MASSACHUSETTS\n\n       [Hon. Nathaniel M. Gorton, U.S. District Judge]\n\n\n                            Before\n\n                    Torruella, Chief Judge,\n               Selya and Stahl, Circuit Judges.\n\n\n\n     George F. Gormley and George F. Gormley, P.C. on brief for\nappellant.\n     Donald K. Stern, United States Attorney, and Michael D.\nRicciuti, Assistant U.S. Attorney, on brief for appellee.\n\n\n\n\n                         May 3, 2000\n\f            Per Curiam.     Title 18 U.S.C. § 3142(i) requires\n\nthat any detention order issued under section 3142(e) “shall\n\n(1) include written findings of fact and a written statement\n\nof the reasons for the detention . . . .”        See also United\n\nStates v. Moss, 887 F.2d 333, 337-38 (1st Cir. 1989) (per\n\ncuriam) (written detention order which simply stated that\n\nthe court had made a “full review” of the evidence and that\n\ndefendant    had   failed    to   rebut   the   presumption    was\n\ninsufficient under section 3142(i)).        The district judge’s\n\nwritten order of detention in this case provides no written\n\nstatement of the reasons for the detention decision.           In\n\nsuch   circumstances,       meaningful    appellate   review    is\n\nimpossible, especially where the magistrate judge ordered\n\nappellant released and did provide a written statement of\n\nthe reasons for that decision.\n\n            Therefore, we remand the matter with directions to\n\nthe district judge to provide a written statement, by May\n\n23, 2000, of the reasons for his decision to detain the\n\nappellant.\n\n            Remanded.\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": "",
+  "xml_harvard": "",
+  "html_with_citations": "<pre class=\"inline\">      [NOT FOR PUBLICATION–NOT TO BE CITED AS PRECEDENT]\n\n          United States Court of Appeals\n                    For the First Circuit\n\n\nNo. 00-1341\n\n\n                        UNITED STATES,\n\n                          Appellee,\n\n                              v.\n\n                 JESSICA ORTIZ, a/k/a MARTA,\n\n                    Defendant, Appellant.\n\n\n         APPEAL FROM THE UNITED STATES DISTRICT COURT\n\n              FOR THE DISTRICT OF MASSACHUSETTS\n\n       [Hon. Nathaniel M. Gorton, U.S. District Judge]\n\n\n                            Before\n\n                    Torruella, Chief Judge,\n               Selya and Stahl, Circuit Judges.\n\n\n\n     George F. Gormley and George F. Gormley, P.C. on brief for\nappellant.\n     Donald K. Stern, United States Attorney, and Michael D.\nRicciuti, Assistant U.S. Attorney, on brief for appellee.\n\n\n\n\n                         May 3, 2000\n\f            Per Curiam.     Title 18 U.S.C. § 3142(i) requires\n\nthat any detention order issued under section 3142(e) “shall\n\n(1) include written findings of fact and a written statement\n\nof the reasons for the detention . . . .”        See also United\n\nStates v. Moss, </pre><span class=\"citation\" data-id=\"530532\"><a href=\"/opinion/530532/united-states-v-frank-o-moss/\"><span class=\"volume\">887</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">333</span></a></span><pre class=\"inline\">, 337-38 (1st Cir. 1989) (per\n\ncuriam) (written detention order which simply stated that\n\nthe court had made a “full review” of the evidence and that\n\ndefendant    had   failed    to   rebut   the   presumption    was\n\ninsufficient under section 3142(i)).        The district judge’s\n\nwritten order of detention in this case provides no written\n\nstatement of the reasons for the detention decision.           In\n\nsuch   circumstances,       meaningful    appellate   review    is\n\nimpossible, especially where the magistrate judge ordered\n\nappellant released and did provide a written statement of\n\nthe reasons for that decision.\n\n            Therefore, we remand the matter with directions to\n\nthe district judge to provide a written statement, by May\n\n23, 2000, of the reasons for his decision to detain the\n\nappellant.\n\n            Remanded.\n\f</pre>",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/530532/"
+  ]
+}

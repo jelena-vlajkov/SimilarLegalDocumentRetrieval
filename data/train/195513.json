@@ -1,0 +1,28 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/195513/",
+  "id": 195513,
+  "absolute_url": "/opinion/195513/boateng-v-united-states/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/195513/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "joined_by_str": "",
+  "date_created": "2011-02-07T02:41:25Z",
+  "date_modified": "2020-02-21T23:30:25.966528Z",
+  "type": "010combined",
+  "sha1": "53846aa4c817d6cae6bd0db7d5a83c648de27607",
+  "page_count": null,
+  "download_url": "http://www.ca1.uscourts.gov/cgi-bin/getopn.pl?OPINION=94-1092.01A",
+  "local_path": null,
+  "plain_text": "                    [NOT FOR PUBLICATION]\n\n                UNITED STATES COURT OF APPEALS\n                    FOR THE FIRST CIRCUIT\n\n                                         \n\nNo. 94-1092 \n\n                        SAFU BOATENG,\n\n                    Plaintiff, Appellant,\n\n                              v.\n\n                  UNITED STATES OF AMERICA,\n\n                     Defendant, Appellee.\n\n                                         \n\n         APPEAL FROM THE UNITED STATES DISTRICT COURT\n\n              FOR THE DISTRICT OF MASSACHUSETTS\n\n     [Hon. A. David Mazzone, Senior U.S. District Judge]\n                                                       \n\n                                         \n\n                            Before\n\n                   Torruella, Selya and Cyr,\n                       Circuit Judges.\n                                     \n\n                                         \n\nSafu Boateng pro se on Memorandum in support of appeal brief.\n            \nDonald K. Stern, United  States Attorney, and  Michael J.  Pelgro,\n                                                                 \nAssistant United States Attorney, on brief for appellee.\n\n                                         \n\n                        July 22, 1994\n                                         \n\n          Per Curiam.  We affirm the dismissal of appellant's\n                    \n\n  2255  petition essentially  for the  reasons stated  by the\n\ndistrict court.    Because appellant  received the  mandatory\n\nminimum  sentence, he was not prejudiced by counsel's failure\n\nto argue for  a lower sentence.  United  States v. Sepulveda,\n                                                            \n\n15  F.3d 1161,  1201-02 (1st  Cir.  1993) (because  defendant\n\nreceived  the  mandatory  minimum  sentence,  a  role-in-the-\n\noffense reduction  would have had  no effect on  the sentence\n\nand  consequently  court  refused to  decide  whether  or not\n\nappellant was a  minor participant), cert. denied,  1994 U.S.\n                                                 \n\nLexis 4738 (1994).\n\n          Affirmed.\n                  \n",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": "",
+  "xml_harvard": "",
+  "html_with_citations": "<pre class=\"inline\">                    [NOT FOR PUBLICATION]\n\n                UNITED STATES COURT OF APPEALS\n                    FOR THE FIRST CIRCUIT\n\n                                         \n\nNo. 94-1092 \n\n                        SAFU BOATENG,\n\n                    Plaintiff, Appellant,\n\n                              v.\n\n                  UNITED STATES OF AMERICA,\n\n                     Defendant, Appellee.\n\n                                         \n\n         APPEAL FROM THE UNITED STATES DISTRICT COURT\n\n              FOR THE DISTRICT OF MASSACHUSETTS\n\n     [Hon. A. David Mazzone, Senior U.S. District Judge]\n                                                       \n\n                                         \n\n                            Before\n\n                   Torruella, Selya and Cyr,\n                       Circuit Judges.\n                                     \n\n                                         \n\nSafu Boateng pro se on Memorandum in support of appeal brief.\n            \nDonald K. Stern, United  States Attorney, and  Michael J.  Pelgro,\n                                                                 \nAssistant United States Attorney, on brief for appellee.\n\n                                         \n\n                        July 22, 1994\n                                         \n\n          Per Curiam.  We affirm the dismissal of appellant's\n                    \n\n  2255  petition essentially  for the  reasons stated  by the\n\ndistrict court.    Because appellant  received the  mandatory\n\nminimum  sentence, he was not prejudiced by counsel's failure\n\nto argue for  a lower sentence.  United  States v. Sepulveda,\n                                                            \n\n</pre><span class=\"citation\" data-id=\"662432\"><a href=\"/opinion/662432/united-states-v-david-sepulveda-united-states-of-america-v-edgar/\"><span class=\"volume\">15</span>  <span class=\"reporter\">F.3d</span> <span class=\"page\">1161</span></a></span><pre class=\"inline\">,  1201-02 (1st  Cir.  1993) (because  defendant\n\nreceived  the  mandatory  minimum  sentence,  a  role-in-the-\n\noffense reduction  would have had  no effect on  the sentence\n\nand  consequently  court  refused to  decide  whether  or not\n\nappellant was a  minor participant), cert. denied,  1994 U.S.\n                                                 \n\nLexis 4738 (1994).\n\n          Affirmed.\n                  \n</pre>",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/662432/"
+  ]
+}

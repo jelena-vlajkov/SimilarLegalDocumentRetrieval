@@ -1,0 +1,29 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/198853/",
+  "id": 198853,
+  "absolute_url": "/opinion/198853/bibiloni-v-commissioner/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/198853/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "joined_by_str": "",
+  "date_created": "2011-02-07T04:01:20Z",
+  "date_modified": "2020-02-21T23:50:13.358228Z",
+  "type": "010combined",
+  "sha1": "ffb2d2ebb6cb7787801bf6d75279004df1261b14",
+  "page_count": 2,
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/98-2341-01A.pdf",
+  "local_path": "pdf/2000/03/09/Bibiloni_v._Commissioner.pdf",
+  "plain_text": "      [NOT FOR PUBLICATION–NOT TO BE CITED AS PRECEDENT]\n\n          United States Court of Appeals\n                     For the First Circuit\n\n\nNo. 98-2341\n\n                      FRANCISCA BIBILONI,\n\n                     Plaintiff, Appellant,\n\n                               v.\n\n               COMMISSIONER OF SOCIAL SECURITY,\n\n                      Defendant, Appellee.\n\n\n         APPEAL FROM THE UNITED STATES DISTRICT COURT\n\n                FOR THE DISTRICT OF PUERTO RICO\n\n        [Hon. Jose Antonio Fuste, U.S. District Judge]\n\n\n                             Before\n\n                    Torruella, Chief Judge,\n               Stahl and Lipez, Circuit Judges.\n\n\n\n\n     Melba N. Rivera-Camacho on brief for appellant.\n     Guillermo Gil, United States Attorney, Lilliam Mendoza Toro,\nAssistant U.S. Attorney, and Robert J. Triba, Chief Counsel,\nSocial Security Administration, on brief for appellee.\n\n\n\n\n                         March 8, 2000\n\f               Per Curiam. We have carefully reviewed the briefs\n\nof the parties and the record and conclude that the judgment\n\nof the district court should be affirmed for essentially the\n\nreasons stated in its Opinion and Order, dated August 31,\n\n1998.    We add only two comments.           First, the record plainly\n\ncontains conflicting evidence regarding the extent to which\n\nclaimant's       physical    and    mental    impairments   affect    her\n\nability    to     engage    in   work   related   activities.        Such\n\nconflicts are for the Commissioner, not the courts.                   See\n\nRodriguez Pagan v. Secretary of Health and Human Services,\n\n819 F.2d 1, 3 (1st Cir. 1987) (per curiam).            Second, because\n\nthis    case    is   virtually     indistinguishable   from   Ortiz    v.\n\nSecretary of Health and Human Services, 890 F.2d 520 (1st\n\nCir. 1989) (per curiam), the administrative law judge's\n\nreliance on the grid was permissible.\n\n               Affirmed.    See Local Rule 27(c).\n\n\n\n\n                                     -2-\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": "",
+  "xml_harvard": "",
+  "html_with_citations": "<pre class=\"inline\">      [NOT FOR PUBLICATION–NOT TO BE CITED AS PRECEDENT]\n\n          United States Court of Appeals\n                     For the First Circuit\n\n\nNo. 98-2341\n\n                      FRANCISCA BIBILONI,\n\n                     Plaintiff, Appellant,\n\n                               v.\n\n               COMMISSIONER OF SOCIAL SECURITY,\n\n                      Defendant, Appellee.\n\n\n         APPEAL FROM THE UNITED STATES DISTRICT COURT\n\n                FOR THE DISTRICT OF PUERTO RICO\n\n        [Hon. Jose Antonio Fuste, U.S. District Judge]\n\n\n                             Before\n\n                    Torruella, Chief Judge,\n               Stahl and Lipez, Circuit Judges.\n\n\n\n\n     Melba N. Rivera-Camacho on brief for appellant.\n     Guillermo Gil, United States Attorney, Lilliam Mendoza Toro,\nAssistant U.S. Attorney, and Robert J. Triba, Chief Counsel,\nSocial Security Administration, on brief for appellee.\n\n\n\n\n                         March 8, 2000\n\f               Per Curiam. We have carefully reviewed the briefs\n\nof the parties and the record and conclude that the judgment\n\nof the district court should be affirmed for essentially the\n\nreasons stated in its Opinion and Order, dated August 31,\n\n1998.    We add only two comments.           First, the record plainly\n\ncontains conflicting evidence regarding the extent to which\n\nclaimant's       physical    and    mental    impairments   affect    her\n\nability    to     engage    in   work   related   activities.        Such\n\nconflicts are for the Commissioner, not the courts.                   See\n\nRodriguez Pagan v. Secretary of Health and Human Services,\n\n</pre><span class=\"citation\" data-id=\"488579\"><a href=\"/opinion/488579/17-socsecrepser-783-unemplinsrep-cch-17374-nicasio-rodriguez-pagan/\"><span class=\"volume\">819</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">1</span></a></span><pre class=\"inline\">, 3 (1st Cir. 1987) (per curiam).            Second, because\n\nthis    case    is   virtually     indistinguishable   from   Ortiz    v.\n\nSecretary of Health and Human Services, </pre><span class=\"citation\" data-id=\"532750\"><a href=\"/opinion/532750/28-socsecrepser-3-unemplinsrep-cch-15109a-victor-m-ortiz-v/\"><span class=\"volume\">890</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">520</span> </a></span><pre class=\"inline\">(1st\n\nCir. 1989) (per curiam), the administrative law judge's\n\nreliance on the grid was permissible.\n\n               Affirmed.    See Local Rule 27(c).\n\n\n\n\n                                     -2-\n\f</pre>",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/488579/",
+    "https://www.courtlistener.com/api/rest/v3/opinions/532750/"
+  ]
+}

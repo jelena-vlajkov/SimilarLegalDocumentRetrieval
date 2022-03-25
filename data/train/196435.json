@@ -1,0 +1,28 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/196435/",
+  "id": 196435,
+  "absolute_url": "/opinion/196435/stow-v-state-of-nh/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/196435/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "joined_by_str": "",
+  "date_created": "2011-02-07T03:05:40Z",
+  "date_modified": "2020-02-21T23:42:30.856144Z",
+  "type": "010combined",
+  "sha1": "c75bebe27eddf2e5bb7c99d70821f2c209b511c1",
+  "page_count": null,
+  "download_url": "http://www.ca1.uscourts.gov/cgi-bin/getopn.pl?OPINION=95-1613.01A",
+  "local_path": null,
+  "plain_text": "\n\nNovember 28, 1995\r\n                    [NOT FOR PUBLICATION]\r\n\n                UNITED STATES COURT OF APPEALS\r\n                    FOR THE FIRST CIRCUIT\r\n\n                                         \r\n\nNo. 95-1613 \r\n\n                       WESTON J. STOW,\r\n\n                    Plaintiff, Appellant,\r\n\n                              v.\r\n\n               STATE OF NEW HAMPSHIRE, ET AL.,\r\n\n                    Defendants, Appellees.\r\n\n                                         \r\n\n         APPEAL FROM THE UNITED STATES DISTRICT COURT\r\n\n              FOR THE DISTRICT OF NEW HAMPSHIRE\r\n\n       [Hon. Steven J. McAuliffe, U.S. District Judge]\r                                                                 \r\n\n                                         \r\n\n                            Before\r\n\n                    Torruella, Chief Judge,\r                                                      \r\n              Selya and Boudin, Circuit Judges.\r                                                          \r\n\n                                         \r\n\nWeston J. Stow on brief pro se.\r                          \r\n\n                                         \r\n\n                                         \r\r\n\n          Per Curiam.  Weston Stow appeals from the dismissal\r                                \r\n\nof his civil rights action against the state of New Hampshire\r\n\nand its  supreme court  justices under  28 U.S.C.    1915(d).\r\n\nAfter reviewing  the record and considering  Stow's arguments\r\n\non appeal, we affirm essentially for the reasons given in the\r\n\norder of the magistrate judge adopted  by the district court.\r\n\nSee Loc. R. 27.1.\r               \r\n\n          Affirmed.\r                              \r\r\n",
+  "html": "<p class=\"case_cite\">70 F.3d 1253</p>\n    <p class=\"parties\">NOTICE: First Circuit Local Rule 36.2(b)6 states unpublished opinions may be cited only in related cases.<br>Weston J. STOW, Plaintiff, Appellant,<br>v.<br>STATE of New Hampshire, et al., Defendants, Appellees.</p>\n    <p class=\"docket\">No. 95-1613.</p>\n    <p class=\"court\">United States Court of Appeals, First Circuit.</p>\n    <p class=\"date\">Nov. 28, 1995.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Appeal from the United States District Court for the District of New Hampshire.</p>\n      <p class=\"indent\">Weston J. Stow on brief pro se.</p>\n      <p class=\"indent\">Before TORRUELLA, Chief Judge, SELYA and BOUDIN, Circuit Judges.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Weston Stow appeals from the dismissal of his civil rights action against the state of New Hampshire and its supreme court justices under 28 U.S.C. Sec. 1915(d).  After reviewing the record and considering Stow's arguments on appeal, we affirm essentially for the reasons given in the order of the magistrate judge adopted by the district court.  See Loc.  R. 27.1.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Affirmed.</p>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": "",
+  "xml_harvard": "",
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation\" data-id=\"708260\"><a href=\"/opinion/708260/in-re-rodolfo-a-vargas/\"><span class=\"volume\">70</span> <span class=\"reporter\">F.3d</span> <span class=\"page\">1253</span></a></span></p>\n    <p class=\"parties\">NOTICE: First Circuit Local Rule 36.2(b)6 states unpublished opinions may be cited only in related cases.<br>Weston J. STOW, Plaintiff, Appellant,<br>v.<br>STATE of New Hampshire, et al., Defendants, Appellees.</p>\n    <p class=\"docket\">No. 95-1613.</p>\n    <p class=\"court\">United States Court of Appeals, First Circuit.</p>\n    <p class=\"date\">Nov. 28, 1995.</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Appeal from the United States District Court for the District of New Hampshire.</p>\n      <p class=\"indent\">Weston J. Stow on brief pro se.</p>\n      <p class=\"indent\">Before TORRUELLA, Chief Judge, SELYA and BOUDIN, Circuit Judges.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Weston Stow appeals from the dismissal of his civil rights action against the state of New Hampshire and its supreme court justices under 28 U.S.C. Sec. 1915(d).  After reviewing the record and considering Stow's arguments on appeal, we affirm essentially for the reasons given in the order of the magistrate judge adopted by the district court.  See Loc.  R. 27.1.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">Affirmed.</p>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/708260/"
+  ]
+}

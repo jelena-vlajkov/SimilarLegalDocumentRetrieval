@@ -1,0 +1,28 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/198638/",
+  "id": 198638,
+  "absolute_url": "/opinion/198638/united-states-v-barry/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/198638/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "joined_by_str": "",
+  "date_created": "2011-02-07T03:56:18Z",
+  "date_modified": "2020-02-21T23:42:49.293521Z",
+  "type": "010combined",
+  "sha1": "13afa47935e5949ce5ba1464b0c05f80beca40e9",
+  "page_count": null,
+  "download_url": "http://www.ca1.uscourts.gov/cgi-bin/getopn.pl?OPINION=98-1869.01A",
+  "local_path": null,
+  "plain_text": "     [NOT FOR PUBLICATIONNOT TO BE CITED AS PRECEDENT]\r\n               United States Court of Appeals\r\n                   For the First Circuit\r\n\nNo. 98-1869\r\n\n                        UNITED STATES,\r\n\n                          Appellee,\r\n\n                              v.\r\n\n                       ROBERT M. BARRY,\r\n\n                    Defendant, Appellant.\r\n\n         APPEAL FROM THE UNITED STATES DISTRICT COURT\r\n\n              FOR THE DISTRICT OF MASSACHUSETTS\r\n\n       [Hon. Nathaniel M. Gorton, U.S. District Judge]\r\n\n                            Before\r\n\n                  Selya, Boudin and Lynch,\r\n                      Circuit Judges.\r\n\n   Robert M. Barry on brief pro se.\r\n   Donald K. Stern, United States Attorney, and Robert E.\r\nRichardson, Assistant U.S. Attorney, on brief for appellee.\r\n\nSeptember 16, 1999\r\n\n          Per Curiam.  Defendant Robert M. Barry appeals from\r\nthe denial of his motion to correct his sentence, filed under\r\nFed. R. Crim. P. 36.  We have carefully reviewed the record and\r\nthe parties' briefs and conclude that the addition of\r\nrestitution in the written judgment of conviction was\r\nauthorized by Fed. R. Crim. P. 35(c).  See United States v.\r\nUccio, 917 F.2d 80 (2d Cir. 1990).  Because the district court\r\nhad the power to make this correction, there is no error in the\r\nwritten judgment and defendant is not entitled to its\r\ncorrection.\r\n          The judgment of the district court is affirmed.  See\r\nLocal Rule 27.1.\n",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": "",
+  "xml_harvard": "",
+  "html_with_citations": "<pre class=\"inline\">     [NOT FOR PUBLICATIONNOT TO BE CITED AS PRECEDENT]\r\n               United States Court of Appeals\r\n                   For the First Circuit\r\n\nNo. 98-1869\r\n\n                        UNITED STATES,\r\n\n                          Appellee,\r\n\n                              v.\r\n\n                       ROBERT M. BARRY,\r\n\n                    Defendant, Appellant.\r\n\n         APPEAL FROM THE UNITED STATES DISTRICT COURT\r\n\n              FOR THE DISTRICT OF MASSACHUSETTS\r\n\n       [Hon. Nathaniel M. Gorton, U.S. District Judge]\r\n\n                            Before\r\n\n                  Selya, Boudin and Lynch,\r\n                      Circuit Judges.\r\n\n   Robert M. Barry on brief pro se.\r\n   Donald K. Stern, United States Attorney, and Robert E.\r\nRichardson, Assistant U.S. Attorney, on brief for appellee.\r\n\nSeptember 16, 1999\r\n\n          Per Curiam.  Defendant Robert M. Barry appeals from\r\nthe denial of his motion to correct his sentence, filed under\r\nFed. R. Crim. P. 36.  We have carefully reviewed the record and\r\nthe parties' briefs and conclude that the addition of\r\nrestitution in the written judgment of conviction was\r\nauthorized by Fed. R. Crim. P. 35(c).  See United States v.\r\nUccio, </pre><span class=\"citation\" data-id=\"550306\"><a href=\"/opinion/550306/united-states-v-nicholas-uccio-and-manos-sarantopoulos/\"><span class=\"volume\">917</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">80</span> </a></span><pre class=\"inline\">(2d Cir. 1990).  Because the district court\r\nhad the power to make this correction, there is no error in the\r\nwritten judgment and defendant is not entitled to its\r\ncorrection.\r\n          The judgment of the district court is affirmed.  See\r\nLocal Rule 27.1.\n</pre>",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/550306/"
+  ]
+}

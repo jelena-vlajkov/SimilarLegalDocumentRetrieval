@@ -1,0 +1,29 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/198816/",
+  "id": 198816,
+  "absolute_url": "/opinion/198816/morales-tirado-v-sanches-rodriguez/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/198816/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "joined_by_str": "",
+  "date_created": "2011-02-07T04:00:01Z",
+  "date_modified": "2020-02-21T23:48:06.299590Z",
+  "type": "010combined",
+  "sha1": "41d40093c4749c278bdbbd795fe9b6ad658af8dc",
+  "page_count": null,
+  "download_url": "http://www.ca1.uscourts.gov/cgi-bin/getopn.pl?OPINION=99-1807.01A",
+  "local_path": null,
+  "plain_text": "     [NOT FOR PUBLICATION NOT TO BE CITED AS PRECEDENT]\r\n               United States Court of Appeals\r\n                   For the First Circuit\r\n\nNo. 99-1807\r\n\n                    CARLOS MORALES-TIRADO,\r\n\n                    Plaintiff, Appellant,\r\n\n                              v.\r\n\n              ISRAEL SANCHEZ-RODRIGUEZ, ET AL.,\r\n\n                    Defendants, Appellees.\r\n\n         APPEAL FROM THE UNITED STATES DISTRICT COURT\r\n\n               FOR THE DISTRICT OF PUERTO RICO\r\n\n      [Hon. Juan M. Perez-Gimenez, U.S. District Judge]\r\n\n                            Before\r\n\n                    Selya, Circuit Judge,\r\n              Campbell, Senior Circuit Judge,\r\n                 and Lipez, Circuit Judge.\r\n\n   Emilio F. Soler on brief for appellant.\r\n   Suzette M. Del Valle Lecaroz and Law Offices Benjamin Acosta,\r\nJr. on brief for appellees.\r\n\nFebruary 2, 2000\r\n\n          Per Curiam.   After a careful review of the record\r\nand of the parties' submissions, we affirm.  We conclude that\r\nthe lower court did not abuse its discretion in denying the\r\nmotion to set aside judgment under Fed.R.Civ.P. 60(b), given\r\ncounsel's repeated failure before his family crisis to comply\r\nwith court orders or adequately to explain his actions. \r\n\"Although we are not unsympathetic to appellant['s] plight in\r\nthis case, . . . the acts or omissions of counsel are visited\r\nupon the client[.]\"  Pinero Capo v. United States, 7 F.3d 283,\r\n285 &amp; n. 2 (1st Cir. 1993) (citing Link v. Wabash R.R. Co., 370\r\nU.S. 626 (1962)) (additional citations omitted).   We find no\r\nabuse of discretion, even if the failures here were those of\r\ncounsel and not of the appellant.\r\n          Affirmed.  1st Cir. Loc. R. 27(c).  \n",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": "",
+  "xml_harvard": "",
+  "html_with_citations": "<pre class=\"inline\">     [NOT FOR PUBLICATION NOT TO BE CITED AS PRECEDENT]\r\n               United States Court of Appeals\r\n                   For the First Circuit\r\n\nNo. 99-1807\r\n\n                    CARLOS MORALES-TIRADO,\r\n\n                    Plaintiff, Appellant,\r\n\n                              v.\r\n\n              ISRAEL SANCHEZ-RODRIGUEZ, ET AL.,\r\n\n                    Defendants, Appellees.\r\n\n         APPEAL FROM THE UNITED STATES DISTRICT COURT\r\n\n               FOR THE DISTRICT OF PUERTO RICO\r\n\n      [Hon. Juan M. Perez-Gimenez, U.S. District Judge]\r\n\n                            Before\r\n\n                    Selya, Circuit Judge,\r\n              Campbell, Senior Circuit Judge,\r\n                 and Lipez, Circuit Judge.\r\n\n   Emilio F. Soler on brief for appellant.\r\n   Suzette M. Del Valle Lecaroz and Law Offices Benjamin Acosta,\r\nJr. on brief for appellees.\r\n\nFebruary 2, 2000\r\n\n          Per Curiam.   After a careful review of the record\r\nand of the parties' submissions, we affirm.  We conclude that\r\nthe lower court did not abuse its discretion in denying the\r\nmotion to set aside judgment under Fed.R.Civ.P. 60(b), given\r\ncounsel's repeated failure before his family crisis to comply\r\nwith court orders or adequately to explain his actions. \r\n\"Although we are not unsympathetic to appellant['s] plight in\r\nthis case, . . . the acts or omissions of counsel are visited\r\nupon the client[.]\"  Pinero Capo v. United States, </pre><span class=\"citation\" data-id=\"194985\"><a href=\"/opinion/194985/pinero-capo-v-united-states/\"><span class=\"volume\">7</span> <span class=\"reporter\">F.3d</span> <span class=\"page\">283</span></a></span><pre class=\"inline\">,\r\n285 &amp; n. 2 (1st Cir. 1993) (citing Link v. Wabash R.R. Co., </pre><span class=\"citation\" data-id=\"106449\"><a href=\"/opinion/106449/link-v-wabash-r-co/\"><span class=\"volume\">370</span>\r\n<span class=\"reporter\">U.S.</span> <span class=\"page\">626</span> </a></span><pre class=\"inline\">(1962)) (additional citations omitted).   We find no\r\nabuse of discretion, even if the failures here were those of\r\ncounsel and not of the appellant.\r\n          Affirmed.  1st Cir. Loc. R. 27(c).  \n</pre>",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/106449/",
+    "https://www.courtlistener.com/api/rest/v3/opinions/194985/"
+  ]
+}

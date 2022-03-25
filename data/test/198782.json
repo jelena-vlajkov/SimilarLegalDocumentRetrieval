@@ -1,0 +1,28 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/198782/",
+  "id": 198782,
+  "absolute_url": "/opinion/198782/mendonca-v-wintersen/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/198782/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "joined_by_str": "",
+  "date_created": "2011-02-07T03:59:07Z",
+  "date_modified": "2020-02-21T23:46:49.119306Z",
+  "type": "010combined",
+  "sha1": "be45239884fb9c458894fae854b197df3d203ecc",
+  "page_count": null,
+  "download_url": "http://www.ca1.uscourts.gov/cgi-bin/getopn.pl?OPINION=99-1905.01A",
+  "local_path": null,
+  "plain_text": "     [NOT FOR PUBLICATION NOT TO BE CITED AS PRECEDENT]\r\n               United States Court of Appeals\r\n                   For the First Circuit\r\n\nNo. 99-1905\r\n\n                   SHARON HUGHES MENDONCA,\r\n\n                    Plaintiff, Appellant,\r\n\n                              v.\r\n\n                    AMY O'BRIEN WINTERSEN,\r\n\n                     Defendant, Appellee.\r\n\n         APPEAL FROM THE UNITED STATES DISTRICT COURT\r\n\n              FOR THE DISTRICT OF MASSACHUSETTS\r\n\n       [Hon. Edward F. Harrington, U.S. District Judge]\r\n\n                            Before\r\n\n                    Selya, Circuit Judge,\r\n                 Cyr, Senior Circuit Judge,\r\n                 and Lipez, Circuit Judge.\r\n\n   Sharon Hughes Mendonca on brief pro se.\r\n   Robin Aaronson Maher and Segalini &amp; Neville on brief for\r\nappellee.\r\n\nDecember 27, 1999\r\n\n          Per Curiam.   After a thorough review of the record\r\nand the submissions of the parties, we affirm for the reason\r\nstated by the district court in its Order dated July 27, 1999. \r\nFurthermore, the district court also lacked subject matter\r\njurisdiction under the Rooker-Feldman doctrine.  See District\r\nof Columbia Court of Appeals v. Feldman, 460 U.S. 462, 476\r\n(1983) (\"[A] United States District Court has no authority to\r\nreview final judgments of a state court in judicial\r\nproceedings.\"); Rooker v. Fidelity Trust Co., 263 U.S. 413,\r\n415-16 (1923) (same).\r\n          Affirmed.  1st Cir. Loc. R. 27(c). \n",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": "",
+  "xml_harvard": "",
+  "html_with_citations": "<pre class=\"inline\">     [NOT FOR PUBLICATION NOT TO BE CITED AS PRECEDENT]\r\n               United States Court of Appeals\r\n                   For the First Circuit\r\n\nNo. 99-1905\r\n\n                   SHARON HUGHES MENDONCA,\r\n\n                    Plaintiff, Appellant,\r\n\n                              v.\r\n\n                    AMY O'BRIEN WINTERSEN,\r\n\n                     Defendant, Appellee.\r\n\n         APPEAL FROM THE UNITED STATES DISTRICT COURT\r\n\n              FOR THE DISTRICT OF MASSACHUSETTS\r\n\n       [Hon. Edward F. Harrington, U.S. District Judge]\r\n\n                            Before\r\n\n                    Selya, Circuit Judge,\r\n                 Cyr, Senior Circuit Judge,\r\n                 and Lipez, Circuit Judge.\r\n\n   Sharon Hughes Mendonca on brief pro se.\r\n   Robin Aaronson Maher and Segalini &amp; Neville on brief for\r\nappellee.\r\n\nDecember 27, 1999\r\n\n          Per Curiam.   After a thorough review of the record\r\nand the submissions of the parties, we affirm for the reason\r\nstated by the district court in its Order dated July 27, 1999. \r\nFurthermore, the district court also lacked subject matter\r\njurisdiction under the Rooker-Feldman doctrine.  See District\r\nof Columbia Court of Appeals v. Feldman, </pre><span class=\"citation\" data-id=\"110889\"><a href=\"/opinion/110889/district-of-columbia-court-of-appeals-v-feldman/\"><span class=\"volume\">460</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">462</span></a></span><pre class=\"inline\">, 476\r\n(1983) (\"[A] United States District Court has no authority to\r\nreview final judgments of a state court in judicial\r\nproceedings.\"); Rooker v. Fidelity Trust Co., </pre><span class=\"citation no-link\"><span class=\"volume\">263</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">413</span></span><pre class=\"inline\">,\r\n415-16 (1923) (same).\r\n          Affirmed.  1st Cir. Loc. R. 27(c). \n</pre>",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/110889/"
+  ]
+}

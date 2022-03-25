@@ -1,0 +1,28 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/198337/",
+  "id": 198337,
+  "absolute_url": "/opinion/198337/united-states-v-martinez/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/198337/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "joined_by_str": "",
+  "date_created": "2011-02-07T03:50:34Z",
+  "date_modified": "2020-02-21T23:34:23.034611Z",
+  "type": "010combined",
+  "sha1": "288150a8ff988e6ad19ad7caa5f6a708867a67e7",
+  "page_count": null,
+  "download_url": "http://www.ca1.uscourts.gov/cgi-bin/getopn.pl?OPINION=97-2343.01A",
+  "local_path": null,
+  "plain_text": " [NOT FOR PUBLICATION--NOT TO BE CITED AS PRECEDENT]\r\n            United States Court of Appeals\r\n                For the First Circuit\r\n\nNo. 97-2343\r\n\n                     UNITED STATES,\r\n\n                       Appellee,\r\n\n                           v.\r\n\n    DAVID ANTONIO MARTINEZ A/K/A WILSON RAFAEL DUME,\r\n\n                 Defendant, Appellant.\r\n\n      APPEAL FROM THE UNITED STATES DISTRICT COURT\r\n\n           FOR THE DISTRICT OF MASSACHUSETTS\r\n\n       [Hon. Patti B. Saris, U.S. District Judge]\r\n\n                         Before\r\n\n                 Selya, Circuit Judge,\r\n            Bownes, Senior Circuit Judge,\r\n              and Stahl, Circuit Judge.\r\n\nDarla J. Mondou on brief for appellant.\r\nDonald K. Stern, United States Attorney, and Dina Michael\r\nChaitowitz, Chief of Appeals, on Motion for Summary Disposition for\r\nappellee.\r\n\nFebruary 25, 1999\r\n\nPer Curiam.  Upon careful review of the record, appellant's\r\nbrief, and the government's motion for summary disposition, we\r\nconclude that this appeal clearly presents no substantial question. \r\nAppellant forfeited his argument in the district court, and so we\r\napply only plain error review.  See United States v. Olano, 507\r\nU.S. 725, 732, 736 (1993).  Even had the district court erred in\r\nassessing a sixth criminal history point, any such error certainly\r\nwas not \"plain,\" and it had no discernible effect on appellant's\r\nrights.  Therefore, we will not overturn the sentence imposed by\r\nthe district court.\r\nThe government's motion is granted.\r\nAffirmed.  See 1st Cir. Loc. R. 27.1.\r\n\n                          -2-\n",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": "",
+  "xml_harvard": "",
+  "html_with_citations": "<pre class=\"inline\"> [NOT FOR PUBLICATION--NOT TO BE CITED AS PRECEDENT]\r\n            United States Court of Appeals\r\n                For the First Circuit\r\n\nNo. 97-2343\r\n\n                     UNITED STATES,\r\n\n                       Appellee,\r\n\n                           v.\r\n\n    DAVID ANTONIO MARTINEZ A/K/A WILSON RAFAEL DUME,\r\n\n                 Defendant, Appellant.\r\n\n      APPEAL FROM THE UNITED STATES DISTRICT COURT\r\n\n           FOR THE DISTRICT OF MASSACHUSETTS\r\n\n       [Hon. Patti B. Saris, U.S. District Judge]\r\n\n                         Before\r\n\n                 Selya, Circuit Judge,\r\n            Bownes, Senior Circuit Judge,\r\n              and Stahl, Circuit Judge.\r\n\nDarla J. Mondou on brief for appellant.\r\nDonald K. Stern, United States Attorney, and Dina Michael\r\nChaitowitz, Chief of Appeals, on Motion for Summary Disposition for\r\nappellee.\r\n\nFebruary 25, 1999\r\n\nPer Curiam.  Upon careful review of the record, appellant's\r\nbrief, and the government's motion for summary disposition, we\r\nconclude that this appeal clearly presents no substantial question. \r\nAppellant forfeited his argument in the district court, and so we\r\napply only plain error review.  See United States v. Olano, </pre><span class=\"citation\" data-id=\"112848\"><a href=\"/opinion/112848/united-states-v-olano/\"><span class=\"volume\">507</span>\r\n<span class=\"reporter\">U.S.</span> <span class=\"page\">725</span></a></span><pre class=\"inline\">, 732, 736 (1993).  Even had the district court erred in\r\nassessing a sixth criminal history point, any such error certainly\r\nwas not \"plain,\" and it had no discernible effect on appellant's\r\nrights.  Therefore, we will not overturn the sentence imposed by\r\nthe district court.\r\nThe government's motion is granted.\r\nAffirmed.  See 1st Cir. Loc. R. 27.1.\r\n\n                          -2-\n</pre>",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/112848/"
+  ]
+}

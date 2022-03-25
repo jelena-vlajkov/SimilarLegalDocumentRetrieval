@@ -1,0 +1,28 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/199115/",
+  "id": 199115,
+  "absolute_url": "/opinion/199115/singerman-v-alfel/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/199115/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "joined_by_str": "",
+  "date_created": "2011-02-07T04:24:43Z",
+  "date_modified": "2020-02-21T23:58:00.977738Z",
+  "type": "010combined",
+  "sha1": "e53bd6a61298034b10e1e1697766866a1e0fd93e",
+  "page_count": 2,
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/00-1177-01A.pdf",
+  "local_path": "pdf/2000/10/10/Singerman_v._Alfel.pdf",
+  "plain_text": "      [NOT FOR PUBLICATION–NOT TO BE CITED AS PRECEDENT]\n\n          United States Court of Appeals\n                     For the First Circuit\n\n\nNo. 00-1177\n\n                       GARY R. SINGERMAN,\n\n                     Plaintiff, Appellant,\n\n                               v.\n\n      KENNETH S. APFEL, COMMISSIONER OF SOCIAL SECURITY,\n\n                      Defendant, Appellee.\n\n\n         APPEAL FROM THE UNITED STATES DISTRICT COURT\n\n               FOR THE DISTRICT OF MASSACHUSETTS\n\n       [Hon. Joyce L. Alexander, U.S. Magistrate Judge]\n\n\n                             Before\n\n                      Selya, Circuit Judge,\n                Campbell, Senior Circuit Judge,\n                   and Boudin, Circuit Judge.\n\n\n\n     Lindsay P. Rand, Nashawaty, Hayden & Rand and Dana A. Curhan\non brief for appellant.\n     Donald K. Stern, United States Attorney, and Christopher M.\nTauro, Assistant U.S. Attorney, on brief for appellee.\n\n\n\n\n                        October 5, 2000\n\f           Per Curiam. The district court judgment dismissing\n\nthe complaint for lack of subject-matter jurisdiction is\n\nsummarily affirmed.    Plaintiff advances a pair of arguments\n\non appeal--alleging that he never received notice of the\n\n1991 denial of his application for social security benefits,\n\nand that the Commissioner undertook a constructive reopening\n\nof that application in the course of addressing plaintiff's\n\nsecond   application     for     benefits.     Neither     of   these\n\ncontentions, however, was properly presented to the district\n\ncourt.   Even in the non-adversarial social security context,\n\nit is \"settled that matters not brought to the attention of\n\nthe   district   court     are     deemed    waived   on    appeal.\"\n\nEvangelista v. Secretary of Health and Human Serv., 826 F.2d\n\n136, 144 (1st Cir. 1987).      We add that both arguments, in any\n\nevent, prove to be without substantive merit on the record\n\nbefore us.\n\n           Affirmed.   See Loc. R. 27(c).\n\n\n\n\n                                  -2-\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": "",
+  "xml_harvard": "",
+  "html_with_citations": "<pre class=\"inline\">      [NOT FOR PUBLICATION–NOT TO BE CITED AS PRECEDENT]\n\n          United States Court of Appeals\n                     For the First Circuit\n\n\nNo. 00-1177\n\n                       GARY R. SINGERMAN,\n\n                     Plaintiff, Appellant,\n\n                               v.\n\n      KENNETH S. APFEL, COMMISSIONER OF SOCIAL SECURITY,\n\n                      Defendant, Appellee.\n\n\n         APPEAL FROM THE UNITED STATES DISTRICT COURT\n\n               FOR THE DISTRICT OF MASSACHUSETTS\n\n       [Hon. Joyce L. Alexander, U.S. Magistrate Judge]\n\n\n                             Before\n\n                      Selya, Circuit Judge,\n                Campbell, Senior Circuit Judge,\n                   and Boudin, Circuit Judge.\n\n\n\n     Lindsay P. Rand, Nashawaty, Hayden & Rand and Dana A. Curhan\non brief for appellant.\n     Donald K. Stern, United States Attorney, and Christopher M.\nTauro, Assistant U.S. Attorney, on brief for appellee.\n\n\n\n\n                        October 5, 2000\n\f           Per Curiam. The district court judgment dismissing\n\nthe complaint for lack of subject-matter jurisdiction is\n\nsummarily affirmed.    Plaintiff advances a pair of arguments\n\non appeal--alleging that he never received notice of the\n\n1991 denial of his application for social security benefits,\n\nand that the Commissioner undertook a constructive reopening\n\nof that application in the course of addressing plaintiff's\n\nsecond   application     for     benefits.     Neither     of   these\n\ncontentions, however, was properly presented to the district\n\ncourt.   Even in the non-adversarial social security context,\n\nit is \"settled that matters not brought to the attention of\n\nthe   district   court     are     deemed    waived   on    appeal.\"\n\nEvangelista v. Secretary of Health and Human Serv., </pre><span class=\"citation\" data-id=\"492625\"><a href=\"/opinion/492625/18-socsecrepser-711-unemplinsrep-cch-17493-samuel-c-evangelista/\"><span class=\"volume\">826</span> <span class=\"reporter\">F.2d</span>\n\n<span class=\"page\">136</span></a></span><pre class=\"inline\">, 144 (1st Cir. 1987).      We add that both arguments, in any\n\nevent, prove to be without substantive merit on the record\n\nbefore us.\n\n           Affirmed.   See Loc. R. 27(c).\n\n\n\n\n                                  -2-\n\f</pre>",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/492625/"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/198758/",
+  "id": 198758,
+  "absolute_url": "/opinion/198758/mendonca-v-medeiros/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/198758/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "joined_by_str": "",
+  "date_created": "2011-02-07T03:58:43Z",
+  "date_modified": "2020-02-21T23:46:12.969583Z",
+  "type": "010combined",
+  "sha1": "a97e5d611724b26c54aaf9029186a4a44f77a64e",
+  "page_count": null,
+  "download_url": "http://www.ca1.uscourts.gov/cgi-bin/getopn.pl?OPINION=99-1879.01A",
+  "local_path": null,
+  "plain_text": "     [NOT FOR PUBLICATION NOT TO BE CITED AS PRECEDENT]\r\n               United States Court of Appeals\r\n                   For the First Circuit\r\n\nNo. 99-1879\r\n\n                      CRISANTO MENDONCA,\r\n\n                    Plaintiff, Appellant,\r\n\n                              v.\r\n\n            JOSEPH MEDEIROS, JAMES KILDUFF, INC.,\r\n\n                    Defendants, Appellees.\r\n\n         APPEAL FROM THE UNITED STATES DISTRICT COURT\r\n\n              FOR THE DISTRICT OF MASSACHUSETTS\r\n\n          [Hon. Patti B. Saris, U.S. District Judge]\r\n\n                            Before\r\n\n                    Selya, Circuit Judge,\r\n                 Cyr, Senior Circuit Judge,\r\n                 and Lipez, Circuit Judge.\r\n\n   Crisanto Mendonca on brief pro se.\r\n   Michelle A. Matusewicz and Law Offices of Lawrence F.\r\nMcAuliffe on brief for appellees.\r\n\nDecember 23, 1999\r\n\n          Per Curiam.   After a thorough review of the record\r\nand the submissions of the parties, we affirm on the ground\r\nthat the district court lacked subject matter jurisdiction. \r\nSee District of Columbia Court of Appeals v. Feldman, 460 U.S.\r\n462, 476 (1983) (\"[A] United States District Court has no\r\nauthority to review final judgments of a state court in\r\njudicial proceedings.\"); Rooker v. Fidelity Trust Co., 263 U.S.\r\n413, 415-16 (1923) (same).\r\n          Affirmed.  1st Cir. Loc. R. 27(c). \n",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": "",
+  "xml_harvard": "",
+  "html_with_citations": "<pre class=\"inline\">     [NOT FOR PUBLICATION NOT TO BE CITED AS PRECEDENT]\r\n               United States Court of Appeals\r\n                   For the First Circuit\r\n\nNo. 99-1879\r\n\n                      CRISANTO MENDONCA,\r\n\n                    Plaintiff, Appellant,\r\n\n                              v.\r\n\n            JOSEPH MEDEIROS, JAMES KILDUFF, INC.,\r\n\n                    Defendants, Appellees.\r\n\n         APPEAL FROM THE UNITED STATES DISTRICT COURT\r\n\n              FOR THE DISTRICT OF MASSACHUSETTS\r\n\n          [Hon. Patti B. Saris, U.S. District Judge]\r\n\n                            Before\r\n\n                    Selya, Circuit Judge,\r\n                 Cyr, Senior Circuit Judge,\r\n                 and Lipez, Circuit Judge.\r\n\n   Crisanto Mendonca on brief pro se.\r\n   Michelle A. Matusewicz and Law Offices of Lawrence F.\r\nMcAuliffe on brief for appellees.\r\n\nDecember 23, 1999\r\n\n          Per Curiam.   After a thorough review of the record\r\nand the submissions of the parties, we affirm on the ground\r\nthat the district court lacked subject matter jurisdiction. \r\nSee District of Columbia Court of Appeals v. Feldman, </pre><span class=\"citation\" data-id=\"110889\"><a href=\"/opinion/110889/district-of-columbia-court-of-appeals-v-feldman/\"><span class=\"volume\">460</span> <span class=\"reporter\">U.S.</span>\r\n<span class=\"page\">462</span></a></span><pre class=\"inline\">, 476 (1983) (\"[A] United States District Court has no\r\nauthority to review final judgments of a state court in\r\njudicial proceedings.\"); Rooker v. Fidelity Trust Co., </pre><span class=\"citation no-link\"><span class=\"volume\">263</span> <span class=\"reporter\">U.S.</span>\r\n<span class=\"page\">413</span></span><pre class=\"inline\">, 415-16 (1923) (same).\r\n          Affirmed.  1st Cir. Loc. R. 27(c). \n</pre>",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/110889/"
+  ]
+}

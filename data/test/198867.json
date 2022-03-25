@@ -1,0 +1,29 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/198867/",
+  "id": 198867,
+  "absolute_url": "/opinion/198867/united-states-v-frierson/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/198867/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "joined_by_str": "",
+  "date_created": "2011-02-07T04:01:37Z",
+  "date_modified": "2020-02-21T23:45:48.408470Z",
+  "type": "010combined",
+  "sha1": "bc2fe837d2e0f6bdb9083c1dbfddfef222903934",
+  "page_count": null,
+  "download_url": "http://www.ca1.uscourts.gov/wp.opinions/00-1186ERR.01A",
+  "local_path": "wpd/2000/04/04/US_v._Frierson.wpd",
+  "plain_text": "",
+  "html": "\n<p style=\"text-align:center;text-indent:1.0000inch;\"><span style=\"font-family: 'Times New';\">United States Court of Appeals</span>\n</p>\n<p style=\"text-align:center;text-indent:0.0000inch;\"><span style=\"font-family: 'Times New';\">For the First Circuit</span>\n</p>\n<p style=\"text-align:justify;text-indent:0.0000inch;\"><span style=\"font-family: 'Courier';\"/>\n</p>\n<p style=\"text-align:center;text-indent:0.0000inch;\"><span style=\"font-family: 'Courier';\">____________________</span>\n</p>\n<p style=\"text-align:justify;text-indent:0.0000inch;\"><span style=\"font-family: 'Courier';\"/>\n</p>\n<p style=\"text-align:justify;text-indent:0.0000inch;\"><span style=\"font-family: 'Courier';\">No. 00-1186</span>\n</p>\n<p style=\"text-align:justify;text-indent:0.0000inch;\"><span style=\"font-family: 'Courier';\"/>\n</p>\n<p style=\"text-align:justify;text-indent:0.0000inch;\"><span style=\"font-family: 'Courier';\"/>\n</p>\n<p style=\"text-align:center;text-indent:0.0000inch;\"><span style=\"font-family: 'Courier';\">UNITED STATES OF AMERICA,</span>\n</p>\n<p style=\"text-align:justify;text-indent:0.0000inch;\"><span style=\"font-family: 'Courier';\"/>\n</p>\n<p style=\"text-align:center;text-indent:0.0000inch;\"><span style=\"font-family: 'Courier';\">Petitioner, Appellee,</span>\n</p>\n<p style=\"text-align:justify;text-indent:0.0000inch;\"><span style=\"font-family: 'Courier';\"/>\n</p>\n<p style=\"text-align:center;text-indent:0.0000inch;\"><span style=\"font-family: 'Courier';\">v.</span>\n</p>\n<p style=\"text-align:justify;text-indent:0.0000inch;\"><span style=\"font-family: 'Courier';\"/>\n</p>\n<p style=\"text-align:center;text-indent:0.0000inch;\"><span style=\"font-family: 'Courier';\">MICHAEL FRIERSON,</span>\n</p>\n<p style=\"text-align:justify;text-indent:0.0000inch;\"><span style=\"font-family: 'Courier';\"/>\n</p>\n<p style=\"text-align:center;text-indent:0.0000inch;\"><span style=\"font-family: 'Courier';\">Respondent, Appellant.</span>\n</p>\n<p style=\"text-align:justify;text-indent:0.0000inch;\"><span style=\"font-family: 'Courier';\"/>\n</p>\n<p style=\"text-align:center;text-indent:0.0000inch;\"><span style=\"font-family: 'Courier';\">____________________</span>\n</p>\n<p style=\"text-align:justify;text-indent:0.0000inch;\"><span style=\"font-family: 'Courier';\"/>\n</p>\n<p style=\"text-align:justify;text-indent:2.7000inch;\"><span style=\"font-family: 'Courier';\"/>\n</p>\n<p style=\"text-align:center;text-indent:0.0000inch;\"><span style=\"font-family: 'Courier';\">ERRATA SHEET</span>\n</p>\n<p style=\"text-align:left;text-indent:1.0000inch;\"><span style=\"font-family: 'Courier';\"/>\n</p>\n<p style=\"text-align:left;text-indent:1.0000inch;\"><span style=\"font-family: 'Courier';\">The opinion of this Court, issued on March 31, 2000, is amended as follows:</span>\n</p>\n<p style=\"text-align:left;text-indent:0.0000inch;\"><span style=\"font-family: 'Courier';\"/>\n</p>\n<p style=\"text-align:left;text-indent:1.0000inch;\"><span style=\"font-family: 'Courier';\">The number 28 should be replaced with the number 18 in the following locations:</span>\n</p>\n<p style=\"text-align:left;text-indent:0.0000inch;\"><span style=\"font-family: 'Courier';\"/>\n</p>\n<p style=\"text-align:left;text-indent:1.0000inch;\"><span style=\"font-family: 'Courier';</span>\n</p>\n<p style=\"text-align:left;text-indent:0.0000inch;\"><span style=\"font-family: 'Courier';\"/>\n</p>\n<p style=\"text-align:left;text-indent:1.0000inch;\"><span style=\"font-family: 'Courier';</span>\n</p>\n<p style=\"text-align:left;text-indent:0.0000inch;\"><span style=\"font-family: 'Courier';\"/>\n</p>\n<p style=\"text-align:left;text-indent:1.0000inch;\"><span style=\"font-family: 'Courier'; and</span>\n</p>\n<p style=\"text-align:left;text-indent:0.0000inch;\"><span style=\"font-family: 'Courier';\"/>\n</p>\n<p style=\"text-align:left;text-indent:1.0000inch;\"><span style=\"font-family: 'Courier';\">on page 12, line 4.</span>\n</p>\n\n",
+  "html_lawbox": "",
+  "html_columbia": "",
+  "xml_harvard": "",
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/199164/",
+    "https://www.courtlistener.com/api/rest/v3/opinions/204289/"
+  ]
+}

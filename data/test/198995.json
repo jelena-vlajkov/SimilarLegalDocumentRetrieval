@@ -1,0 +1,28 @@
+{
+  "resource_uri": "https://www.courtlistener.com/api/rest/v3/opinions/198995/",
+  "id": 198995,
+  "absolute_url": "/opinion/198995/mazzaglia-v-state-of-nh/",
+  "cluster": "https://www.courtlistener.com/api/rest/v3/clusters/198995/",
+  "author": null,
+  "joined_by": [],
+  "author_str": "",
+  "per_curiam": false,
+  "joined_by_str": "",
+  "date_created": "2011-02-07T04:22:35Z",
+  "date_modified": "2020-02-21T23:22:07.750416Z",
+  "type": "010combined",
+  "sha1": "b922f649c9f4ac6c6c81a4412069484c37ce4601",
+  "page_count": 2,
+  "download_url": "http://www.ca1.uscourts.gov/pdf.opinions/99-1997-01A.pdf",
+  "local_path": "pdf/2000/07/11/Mazzaglia_v._State_of_NH.pdf",
+  "plain_text": "      [NOT FOR PUBLICATION–NOT TO BE CITED AS PRECEDENT]\n\n         United States Court of Appeals\n                    For the First Circuit\n\n\nNo. 99-1997\n\n                     BARRY T. MAZZAGLIA,\n\n                    Plaintiff, Appellant,\n\n                              v.\n\n               STATE OF NEW HAMPSHIRE, ET AL.,\n\n                    Defendants, Appellees.\n\n\n         APPEAL FROM THE UNITED STATES DISTRICT COURT\n\n              FOR THE DISTRICT OF NEW HAMPSHIRE\n\n        [Hon. Paul J. Barbadoro, U.S. District Judge]\n\n\n                            Before\n\n                     Lynch, Circuit Judge,\n                Bownes, Senior Circuit Judge,\n                  and Lipez, Circuit Judge.\n\n\n\n\n    Barry T. Mazzaglia on brief pro se.\n\n\n\n\n                        June 23, 2000\n\f            Per Curiam.        The judgment is affirmed for the\n\nreasons enumerated by the magistrate judge in his report and\n\nadopted    by   the   district   judge.        We   add   one   procedural\n\ncomment.    The magistrate judge was authorized to conduct a\n\npreliminary review of the in forma pauperis complaint and to\n\nrecommend a dismissal thereof, whether or not plaintiff was\n\nin   custody    at    the   relevant   time.        If   plaintiff   was   a\n\nprisoner, then 28 U.S.C. § 1915A would have governed; if he\n\nwas not, then 28 U.S.C. § 1915(e)(2)(B) would have applied.\n\nThe same analysis would have been involved in either case.\n\nSee, e.g., McGore v. Wrigglesworth, 114 F.3d 601, 604 (6th\n\nCir. 1997) (describing the two provisions as \"essentially\n\nidentical\").\n\n            Affirmed.\n\n\n\n\n                                   -2-\n\f",
+  "html": "",
+  "html_lawbox": "",
+  "html_columbia": "",
+  "xml_harvard": "",
+  "html_with_citations": "<pre class=\"inline\">      [NOT FOR PUBLICATION–NOT TO BE CITED AS PRECEDENT]\n\n         United States Court of Appeals\n                    For the First Circuit\n\n\nNo. 99-1997\n\n                     BARRY T. MAZZAGLIA,\n\n                    Plaintiff, Appellant,\n\n                              v.\n\n               STATE OF NEW HAMPSHIRE, ET AL.,\n\n                    Defendants, Appellees.\n\n\n         APPEAL FROM THE UNITED STATES DISTRICT COURT\n\n              FOR THE DISTRICT OF NEW HAMPSHIRE\n\n        [Hon. Paul J. Barbadoro, U.S. District Judge]\n\n\n                            Before\n\n                     Lynch, Circuit Judge,\n                Bownes, Senior Circuit Judge,\n                  and Lipez, Circuit Judge.\n\n\n\n\n    Barry T. Mazzaglia on brief pro se.\n\n\n\n\n                        June 23, 2000\n\f            Per Curiam.        The judgment is affirmed for the\n\nreasons enumerated by the magistrate judge in his report and\n\nadopted    by   the   district   judge.        We   add   one   procedural\n\ncomment.    The magistrate judge was authorized to conduct a\n\npreliminary review of the in forma pauperis complaint and to\n\nrecommend a dismissal thereof, whether or not plaintiff was\n\nin   custody    at    the   relevant   time.        If   plaintiff   was   a\n\nprisoner, then 28 U.S.C. § 1915A would have governed; if he\n\nwas not, then 28 U.S.C. § 1915(e)(2)(B) would have applied.\n\nThe same analysis would have been involved in either case.\n\nSee, e.g., McGore v. Wrigglesworth, </pre><span class=\"citation\" data-id=\"741092\"><a href=\"/opinion/741092/darryl-mcgore-v-gene-l-wrigglesworth-chief-sheriff-richard-chinelli/\"><span class=\"volume\">114</span> <span class=\"reporter\">F.3d</span> <span class=\"page\">601</span></a></span><pre class=\"inline\">, 604 (6th\n\nCir. 1997) (describing the two provisions as \"essentially\n\nidentical\").\n\n            Affirmed.\n\n\n\n\n                                   -2-\n\f</pre>",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "https://www.courtlistener.com/api/rest/v3/opinions/741092/"
+  ]
+}
