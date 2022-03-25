@@ -2,9 +2,11 @@
 Similar Legal Document Retrieval 
 
 ## Authors 
+| Student          | Record        |
+| -----------------|:-------------:|
+| Ilija Brdar      | E2 5/2021     |
+| Jelena Vlajkov   | E2 61/2021    |
 
-| Ilija Brdar      | E2 5/2021  |
-| Jelena Vlajkov   | E2 61/2021 |
 
 ## Experiment 
 
